@@ -1,0 +1,4092 @@
+[
+  {
+    "word": "(he)rausfinden, findet heraus, fand heraus, hat herausgefunden",
+    "forms": null,
+    "translation": "to find out"
+  },
+  {
+    "word": "(he)runterfahren, fährt herunter, fuhr herunter, hat heruntergefahren",
+    "forms": null,
+    "translation": "to shut down (computer)"
+  },
+  {
+    "word": "(he)runterladen, lädt herunter, lud herunter, hat heruntergeladen",
+    "forms": null,
+    "translation": "to download"
+  },
+  {
+    "word": "(sich etwas) kaufen",
+    "forms": "kauft, kaufte, hat gekauft",
+    "translation": "to buy (something)"
+  },
+  {
+    "word": "abbiegen",
+    "forms": "biegt ab, bog ab, ist abgebogen",
+    "translation": "to turn (direction)"
+  },
+  {
+    "word": "abfahren",
+    "forms": "fährt ab, fuhr ab, ist abgefahren",
+    "translation": "to depart / leave"
+  },
+  {
+    "word": "abgeben",
+    "forms": "gibt ab, gab ab, hat abgegeben",
+    "translation": "to hand in / submit / deliver"
+  },
+  {
+    "word": "abhängen",
+    "forms": "hängt ab, hing ab, hat abgehangen",
+    "translation": "to depend (on)"
+  },
+  {
+    "word": "abheben",
+    "forms": "hebt ab, hob ab, hat abgehoben",
+    "translation": "to withdraw (money) / lift off"
+  },
+  {
+    "word": "abholen",
+    "forms": "holt ab, holte ab, hat abgeholt",
+    "translation": "to pick up / fetch"
+  },
+  {
+    "word": "ablehnen",
+    "forms": "lehnt ab, lehnte ab, hat abgelehnt",
+    "translation": "to reject / decline"
+  },
+  {
+    "word": "abmachen",
+    "forms": "macht ab, machte ab, hat abgemacht",
+    "translation": "to agree / arrange"
+  },
+  {
+    "word": "abnehmen",
+    "forms": "nimmt ab, nahm ab, hat abgenommen",
+    "translation": "to decrease / lose weight / remove"
+  },
+  {
+    "word": "abonnieren",
+    "forms": "abonniert, abonnierte, hat abonniert",
+    "translation": "to subscribe to"
+  },
+  {
+    "word": "abstimmen",
+    "forms": "stimmt ab, stimmte ab, hat abgestimmt",
+    "translation": "to vote / coordinate"
+  },
+  {
+    "word": "abwaschen",
+    "forms": "wäscht ab, wusch ab, hat abgewaschen",
+    "translation": "to wash up / wash dishes"
+  },
+  {
+    "word": "ändern",
+    "forms": "ändert, änderte, hat geändert",
+    "translation": "to change / modify"
+  },
+  {
+    "word": "ärgern",
+    "forms": "ärgert, ärgerte, hat geärgert",
+    "translation": "to annoy / upset / make angry"
+  },
+  {
+    "word": "akzeptieren",
+    "forms": "akzeptiert, akzeptierte, hat akzeptiert",
+    "translation": "to accept"
+  },
+  {
+    "word": "sich amüsieren",
+    "forms": "amüsiert sich, amüsierte sich, hat sich amüsiert",
+    "translation": "to enjoy oneself / have fun"
+  },
+  {
+    "word": "analysieren",
+    "forms": "analysiert, analysierte, hat analysiert",
+    "translation": "to analyze"
+  },
+  {
+    "word": "anbieten",
+    "forms": "bietet an, bot an, hat angeboten",
+    "translation": "to offer"
+  },
+  {
+    "word": "anerkennen",
+    "forms": "erkennt an, erkannte an, hat anerkannt",
+    "translation": "to recognize / acknowledge / approve"
+  },
+  {
+    "word": "anfangen",
+    "forms": "fängt an, fing an, hat angefangen",
+    "translation": "to begin / start"
+  },
+  {
+    "word": "angeben",
+    "forms": "gibt an, gab an, hat angegeben",
+    "translation": "to state / specify / declare"
+  },
+  {
+    "word": "anhaben",
+    "forms": "hat an, hatte an, hat angehabt",
+    "translation": "to wear / have on"
+  },
+  {
+    "word": "ankommen",
+    "forms": "kommt an, kam an, ist angekommen",
+    "translation": "to arrive / depend on"
+  },
+  {
+    "word": "anmelden",
+    "forms": "meldet an, meldete an, hat angemeldet",
+    "translation": "to register / sign up"
+  },
+  {
+    "word": "anrufen",
+    "forms": "ruft an, rief an, hat angerufen",
+    "translation": "to call / phone"
+  },
+  {
+    "word": "anschaffen",
+    "forms": "schafft an, schaffte an, hat angeschafft",
+    "translation": "to acquire / purchase"
+  },
+  {
+    "word": "anschließen",
+    "forms": "schließt an, schloss an, hat angeschlossen",
+    "translation": "to connect / plug in"
+  },
+  {
+    "word": "anschnallen",
+    "forms": "schnallt an, schnallte an, hat angeschnallt",
+    "translation": "to buckle up / fasten seatbelt"
+  },
+  {
+    "word": "ansehen",
+    "forms": "sieht an, sah an, hat angesehen",
+    "translation": "to look at / watch"
+  },
+  {
+    "word": "ansprechen",
+    "forms": "spricht an, sprach an, hat angesprochen",
+    "translation": "to address / speak to"
+  },
+  {
+    "word": "anstellen",
+    "forms": "stellt an, stellte an, hat angestellt",
+    "translation": "to turn on / employ / queue up"
+  },
+  {
+    "word": "sich anstrengen",
+    "forms": "strengt sich an, strengte sich an, hat sich angestrengt",
+    "translation": "to make an effort / exert oneself"
+  },
+  {
+    "word": "antworten",
+    "forms": "antwortet, antwortete, hat geantwortet",
+    "translation": "to answer / reply"
+  },
+  {
+    "word": "anwenden",
+    "forms": "wendet an, wandte an, hat angewandt/angewendet",
+    "translation": "to apply / use"
+  },
+  {
+    "word": "anzeigen",
+    "forms": "zeigt an, zeigte an, hat angezeigt",
+    "translation": "to report / indicate / advertise"
+  },
+  {
+    "word": "anziehen",
+    "forms": "zieht an, zog an, hat angezogen",
+    "translation": "to dress / put on clothes"
+  },
+  {
+    "word": "arbeiten",
+    "forms": "arbeitet, arbeitete, hat gearbeitet",
+    "translation": "to work"
+  },
+  {
+    "word": "atmen",
+    "forms": "atmet, atmete, hat geatmet",
+    "translation": "to breathe"
+  },
+  {
+    "word": "auffallen",
+    "forms": "fällt auf, fiel auf, ist aufgefallen",
+    "translation": "to stand out / notice / strike one"
+  },
+  {
+    "word": "aufführen",
+    "forms": "führt auf, führte auf, hat aufgeführt",
+    "translation": "to perform / list"
+  },
+  {
+    "word": "aufgeben",
+    "forms": "gibt auf, gab auf, hat aufgegeben",
+    "translation": "to give up / post / hand in"
+  },
+  {
+    "word": "aufhalten",
+    "forms": "hält auf, hielt auf, hat aufgehalten",
+    "translation": "to stop / delay / hold open"
+  },
+  {
+    "word": "aufheben",
+    "forms": "hebt auf, hob auf, hat aufgehoben",
+    "translation": "to pick up / keep / lift"
+  },
+  {
+    "word": "aufhörten",
+    "forms": "hört auf, hörte auf, hat aufgehört",
+    "translation": "to stop / cease / end"
+  },
+  {
+    "word": "auflösen",
+    "forms": "löst auf, löste auf, hat aufgelöst",
+    "translation": "to dissolve / break up"
+  },
+  {
+    "word": "aufnehmen",
+    "forms": "nimmt auf, nahm auf, hat aufgenommen",
+    "translation": "to record / admit / receive"
+  },
+  {
+    "word": "aufpassen",
+    "forms": "passt auf, passte auf, hat aufgepasst",
+    "translation": "to pay attention / watch out / look after"
+  },
+  {
+    "word": "aufräumen",
+    "forms": "räumt auf, räumte auf, hat aufgeräumt",
+    "translation": "to clean up / tidy up"
+  },
+  {
+    "word": "aufregen",
+    "forms": "regt auf, regte auf, hat aufgeregt",
+    "translation": "to excite / agitate / upset"
+  },
+  {
+    "word": "aufschreiben",
+    "forms": null,
+    "translation": "to write down"
+  },
+  {
+    "word": "aufstehen",
+    "forms": "steht auf, stand auf, ist aufgestanden",
+    "translation": "to get up / stand up"
+  },
+  {
+    "word": "auftreten",
+    "forms": "tritt auf, trat auf, ist aufgetreten",
+    "translation": "to perform / occur / step"
+  },
+  {
+    "word": "aufwachen",
+    "forms": "wacht auf, wachte auf, ist aufgewacht",
+    "translation": "to wake up"
+  },
+  {
+    "word": "ausdrucken",
+    "forms": "druckt aus, druckte aus, hat ausgedruckt",
+    "translation": "to print out"
+  },
+  {
+    "word": "ausfallen",
+    "forms": "fällt aus, fiel aus, ist ausgefallen",
+    "translation": "to fail / be cancelled / fall out"
+  },
+  {
+    "word": "ausfüllen",
+    "forms": "füllt aus, füllte aus, hat ausgefüllt",
+    "translation": "to fill out / complete (a form)"
+  },
+  {
+    "word": "ausgeben",
+    "forms": "gibt aus, gab aus, hat ausgegeben",
+    "translation": "to spend (money) / issue"
+  },
+  {
+    "word": "ausgehen",
+    "forms": "geht aus, ging aus, ist ausgegangen",
+    "translation": "to go out / turn off / end"
+  },
+  {
+    "word": "ausmachen",
+    "forms": "macht aus, machte aus, hat ausgemacht",
+    "translation": "to turn off / matter / agree on"
+  },
+  {
+    "word": "ausreichen",
+    "forms": null,
+    "translation": "sufficient / enough"
+  },
+  {
+    "word": "ausrichten",
+    "forms": "richtet aus, richtete aus, hat ausgerichtet",
+    "translation": "to pass on a message / align"
+  },
+  {
+    "word": "ausschließen",
+    "forms": "schließt aus, schloss aus, hat ausgeschlossen",
+    "translation": "to exclude / rule out"
+  },
+  {
+    "word": "aussehen",
+    "forms": "sieht aus, sah aus, hat ausgesehen",
+    "translation": "to look / appear"
+  },
+  {
+    "word": "außen",
+    "forms": null,
+    "translation": "outside / on the outside"
+  },
+  {
+    "word": "aussprechen",
+    "forms": "spricht aus, sprach aus, hat ausgesprochen",
+    "translation": "to pronounce / express"
+  },
+  {
+    "word": "ausstellen",
+    "forms": "stellt aus, stellte aus, hat ausgestellt",
+    "translation": "to exhibit / issue (document) / turn off"
+  },
+  {
+    "word": "aussuchen",
+    "forms": "sucht aus, suchte aus, hat ausgesucht",
+    "translation": "to choose / pick out"
+  },
+  {
+    "word": "sich aussuchen",
+    "forms": "sucht aus, suchte aus, hat ausgesucht",
+    "translation": "to choose / select"
+  },
+  {
+    "word": "auswählen",
+    "forms": "wählt aus, wählte aus, hat ausgewählt",
+    "translation": "to select / choose"
+  },
+  {
+    "word": "ausziehen",
+    "forms": "zieht aus, zog aus, hat/ist ausgezogen",
+    "translation": "to undress / move out"
+  },
+  {
+    "word": "backen",
+    "forms": "bäckt / backt, backte, hat gebacken",
+    "translation": "to bake"
+  },
+  {
+    "word": "baden",
+    "forms": "badet, badete, hat gebadet",
+    "translation": "to bathe / swim"
+  },
+  {
+    "word": "bauen",
+    "forms": "baut, baute, hat gebaut",
+    "translation": "to build"
+  },
+  {
+    "word": "beachten",
+    "forms": "beachtet, beachtete, hat beachtet",
+    "translation": "to pay attention to / note"
+  },
+  {
+    "word": "beantragen",
+    "forms": "beantragt, beantragte, hat beantragt",
+    "translation": "to apply for"
+  },
+  {
+    "word": "beantworten",
+    "forms": "beantwortet, beantwortete, hat beantwortet",
+    "translation": "to answer"
+  },
+  {
+    "word": "sich bedanken",
+    "forms": "bedankt, bedankte, hat bedankt",
+    "translation": "to say thank you / express gratitude"
+  },
+  {
+    "word": "bedeuten",
+    "forms": "bedeutet, bedeutete, hat bedeutet",
+    "translation": "to mean / signify"
+  },
+  {
+    "word": "bedienen",
+    "forms": "bedient, bediente, hat bedient",
+    "translation": "to serve / operate"
+  },
+  {
+    "word": "sich beeilen",
+    "forms": "beeilt sich, beeilte sich, hat sich beeilt",
+    "translation": "to hurry"
+  },
+  {
+    "word": "beenden",
+    "forms": "beendet, beendete, hat beendet",
+    "translation": "to finish / end"
+  },
+  {
+    "word": "sich befinden",
+    "forms": "befindet sich, befand sich, hat sich befunden",
+    "translation": "to be located"
+  },
+  {
+    "word": "begegnen",
+    "forms": "begegnet, begegnete, ist begegnet",
+    "translation": "to meet / encounter"
+  },
+  {
+    "word": "beginnen",
+    "forms": "beginnt, begann, hat begonnen",
+    "translation": "to begin"
+  },
+  {
+    "word": "begleiten",
+    "forms": "begleitet, begleitete, hat begleitet",
+    "translation": "to accompany"
+  },
+  {
+    "word": "begründen",
+    "forms": "begründet, begründete, hat begründet",
+    "translation": "to justify / give reasons for"
+  },
+  {
+    "word": "begrüßen",
+    "forms": "begrüßt, begrüßte, hat begrüßt",
+    "translation": "to greet / welcome"
+  },
+  {
+    "word": "behalten",
+    "forms": "behält, behielt, hat behalten",
+    "translation": "to keep"
+  },
+  {
+    "word": "behandeln",
+    "forms": "behandelt, behandelte, hat behandelt",
+    "translation": "to treat / deal with"
+  },
+  {
+    "word": "behindern",
+    "forms": "behindert, behinderte, hat behindert",
+    "translation": "to obstruct / impede / be disabled"
+  },
+  {
+    "word": "bekannt geben",
+    "forms": "gibt bekannt, gab bekannt, hat bekannt gegeben",
+    "translation": "to announce / make known"
+  },
+  {
+    "word": "bekommen",
+    "forms": "bekommt, bekam, hat bekommen",
+    "translation": "to get / receive"
+  },
+  {
+    "word": "beleidigen",
+    "forms": "beleidigt, beleidigte, hat beleidigt",
+    "translation": "to insult / offend"
+  },
+  {
+    "word": "bemerken",
+    "forms": "bemerkt, bemerkte, hat bemerkt",
+    "translation": "to notice / realize"
+  },
+  {
+    "word": "benötigen",
+    "forms": "benötigt, benötigte, hat benötigt",
+    "translation": "to need / require"
+  },
+  {
+    "word": "benutzen",
+    "forms": "benutzt, benutzte, hat benutzt",
+    "translation": "to use"
+  },
+  {
+    "word": "beobachten",
+    "forms": "beobachtet, beobachtete, hat beobachtet",
+    "translation": "to observe / watch"
+  },
+  {
+    "word": "beraten",
+    "forms": "berät, beriet, hat beraten",
+    "translation": "to advise / consult"
+  },
+  {
+    "word": "berechnen",
+    "forms": "berechnet, berechnete, hat berechnet",
+    "translation": "to calculate / charge"
+  },
+  {
+    "word": "berichten",
+    "forms": "berichtet, berichtete, hat berichtet",
+    "translation": "to report"
+  },
+  {
+    "word": "beruhigen",
+    "forms": "beruhigt, beruhigte, hat beruhigt",
+    "translation": "to calm down / reassure"
+  },
+  {
+    "word": "beschädigen",
+    "forms": "beschädigt, beschädigte, hat beschädigt",
+    "translation": "to damage"
+  },
+  {
+    "word": "beschäftigen",
+    "forms": "beschäftigt, beschäftigte, hat beschäftigt",
+    "translation": "to employ / occupy oneself"
+  },
+  {
+    "word": "Bescheid geben",
+    "forms": null,
+    "translation": "to let someone know"
+  },
+  {
+    "word": "Bescheid sagen",
+    "forms": null,
+    "translation": "to let someone know"
+  },
+  {
+    "word": "beschließen",
+    "forms": "beschließt, beschloss, hat beschlossen",
+    "translation": "to decide / resolve"
+  },
+  {
+    "word": "beschränken",
+    "forms": "beschränkt, beschränkte, hat beschränkt",
+    "translation": "to restrict / limit"
+  },
+  {
+    "word": "beschreiben",
+    "forms": "beschreibt, beschrieb, hat beschrieben",
+    "translation": "to describe"
+  },
+  {
+    "word": "sich beschweren",
+    "forms": "beschwert sich, beschwerte sich, hat sich beschwert",
+    "translation": "to complain"
+  },
+  {
+    "word": "besetzen",
+    "forms": "besetzt, besetzte, hat besetzt",
+    "translation": "to occupy / reserve"
+  },
+  {
+    "word": "besichtigen",
+    "forms": "besigtigt, besichtigte, hat besichtigt",
+    "translation": "to visit / sightsee"
+  },
+  {
+    "word": "besitzen",
+    "forms": "besitzt, besaß, hat besessen",
+    "translation": "to own / possess"
+  },
+  {
+    "word": "besorgen",
+    "forms": "besorgt, besorgte, hat besorgt",
+    "translation": "to get / obtain"
+  },
+  {
+    "word": "besprechen",
+    "forms": "bespricht, besprach, hat besprochen",
+    "translation": "to discuss"
+  },
+  {
+    "word": "bestätigen",
+    "forms": "bestigtätigt, bestätigte, hat bestätigt",
+    "translation": "to confirm"
+  },
+  {
+    "word": "bestellen",
+    "forms": "bestellt, bestellte, hat bestellt",
+    "translation": "to order"
+  },
+  {
+    "word": "bestrafen",
+    "forms": "bestraft, bestrafte, hat bestraft",
+    "translation": "to punish"
+  },
+  {
+    "word": "besuchen",
+    "forms": "besucht, besuchte, hat besucht",
+    "translation": "to visit"
+  },
+  {
+    "word": "sich beteiligen",
+    "forms": "beteiligt sich, beteiligte sich, hat sich beteiligt",
+    "translation": "to participate / chip in"
+  },
+  {
+    "word": "betreuen",
+    "forms": "betreut, betreute, hat betreut",
+    "translation": "to look after / supervise"
+  },
+  {
+    "word": "betrügen",
+    "forms": "betrügt, betrog, hat betrogen",
+    "translation": "to deceive / cheat / cheat on"
+  },
+  {
+    "word": "betrunken",
+    "forms": null,
+    "translation": "drunk"
+  },
+  {
+    "word": "bewegen",
+    "forms": "bewegt, bewegte, hat bewegt",
+    "translation": "to move"
+  },
+  {
+    "word": "beweisen",
+    "forms": "beweist, bewies, hat bewiesen",
+    "translation": "to prove"
+  },
+  {
+    "word": "sich bewerben",
+    "forms": "bewirbt sich, bewarb sich, hat sich beworben",
+    "translation": "to apply"
+  },
+  {
+    "word": "bezahlen",
+    "forms": "bezahlt, bezahlte, hat bezahlt",
+    "translation": "to pay"
+  },
+  {
+    "word": "bieten",
+    "forms": "bietet, bot, hat geboten",
+    "translation": "to offer"
+  },
+  {
+    "word": "ein bisschen",
+    "forms": null,
+    "translation": "a little bit"
+  },
+  {
+    "word": "bitten",
+    "forms": "bittet, bat, hat gebeten",
+    "translation": "to ask / request"
+  },
+  {
+    "word": "bleiben",
+    "forms": "bleibt, blieb, ist geblieben",
+    "translation": "to stay / remain"
+  },
+  {
+    "word": "blühen",
+    "forms": "blüht, blühte, hat geblüht",
+    "translation": "to bloom / blossom"
+  },
+  {
+    "word": "bluten",
+    "forms": "blutet, blutete, hat geblutete",
+    "translation": "to bleed"
+  },
+  {
+    "word": "braten",
+    "forms": "brät, briet, hat gebraten",
+    "translation": "to fry / roast"
+  },
+  {
+    "word": "brauchen",
+    "forms": "braucht, brauchte, hat gebraucht",
+    "translation": "to need"
+  },
+  {
+    "word": "brechen",
+    "forms": "bricht, brach, hat gebrochen",
+    "translation": "to break"
+  },
+  {
+    "word": "bremsen",
+    "forms": "bremst, bremste, hat gebremst",
+    "translation": "to brake"
+  },
+  {
+    "word": "brennen",
+    "forms": "brennt, brannte, hat gebrannt",
+    "translation": "to burn"
+  },
+  {
+    "word": "bringen",
+    "forms": "bringt, brachte, hat gebracht",
+    "translation": "to bring"
+  },
+  {
+    "word": "buchen",
+    "forms": "bucht, buchte, hat gebucht",
+    "translation": "to book"
+  },
+  {
+    "word": "buchstabieren",
+    "forms": "buchstabiert, buchstabierte, hat buchstabiert",
+    "translation": "to spell"
+  },
+  {
+    "word": "chatten",
+    "forms": null,
+    "translation": "to chat (online)"
+  },
+  {
+    "word": "daneben",
+    "forms": null,
+    "translation": "next to it"
+  },
+  {
+    "word": "danken",
+    "forms": "dankt, dankte, hat gedankt",
+    "translation": "to thank"
+  },
+  {
+    "word": "dauern",
+    "forms": "dauert, dauerte, hat gedauert",
+    "translation": "to last / take time"
+  },
+  {
+    "word": "denken",
+    "forms": "denkt, dachte, hat gedacht",
+    "translation": "to think / believe"
+  },
+  {
+    "word": "deswegen",
+    "forms": null,
+    "translation": "therefore / because of that"
+  },
+  {
+    "word": "diskutieren",
+    "forms": "diskutiert, diskutierte, hat diskutiert",
+    "translation": "to discuss"
+  },
+  {
+    "word": "draußen",
+    "forms": null,
+    "translation": "outside"
+  },
+  {
+    "word": "drehen",
+    "forms": "dreht, drehte, hat gedreht",
+    "translation": "to turn / rotate / film"
+  },
+  {
+    "word": "drin, drinnen",
+    "forms": null,
+    "translation": "inside"
+  },
+  {
+    "word": "drinnen",
+    "forms": null,
+    "translation": "inside / indoors"
+  },
+  {
+    "word": "drucken",
+    "forms": "druckt, druckte, hat gedruckt",
+    "translation": "to print"
+  },
+  {
+    "word": "drüben",
+    "forms": null,
+    "translation": "over there"
+  },
+  {
+    "word": "drücken",
+    "forms": "drückt, drückte, hat gedrückt",
+    "translation": "to push / press"
+  },
+  {
+    "word": "dürfen",
+    "forms": "darf, durfte, hat gedurft",
+    "translation": "to be allowed to"
+  },
+  {
+    "word": "duschen",
+    "forms": "duscht, duschte, hat geduscht",
+    "translation": "to shower"
+  },
+  {
+    "word": "eben",
+    "forms": null,
+    "translation": "just, simply"
+  },
+  {
+    "word": "eigen",
+    "forms": null,
+    "translation": "own"
+  },
+  {
+    "word": "sich eignen",
+    "forms": "eignet sich, eignete sich, hat sich geeignet",
+    "translation": "to be suitable"
+  },
+  {
+    "word": "eilen",
+    "forms": "eilt, eilte, hat geeilt",
+    "translation": "to hurry"
+  },
+  {
+    "word": "einbrechen",
+    "forms": "bricht ein, brach ein, ist eingebrochen",
+    "translation": "to break in"
+  },
+  {
+    "word": "einen Termin vereinbaren",
+    "forms": null,
+    "translation": "to make an appointment"
+  },
+  {
+    "word": "einen Vorschlag machen",
+    "forms": null,
+    "translation": "to make a suggestion"
+  },
+  {
+    "word": "einfallen",
+    "forms": "fällt ein, fiel ein, ist eingefallen",
+    "translation": "to occur to (someone)"
+  },
+  {
+    "word": "einigen",
+    "forms": "einigt, einigte, hat geeinigt",
+    "translation": "to agree / reach an agreement"
+  },
+  {
+    "word": "einkaufen",
+    "forms": "kauft ein, kaufte ein, hat eingekauft",
+    "translation": "to shop, to buy"
+  },
+  {
+    "word": "einladen",
+    "forms": "lädt ein, lud ein, hat eingeladen",
+    "translation": "to invite"
+  },
+  {
+    "word": "einnehmen",
+    "forms": "nimmt ein, nahm ein, hat eingenommen",
+    "translation": "to take (medicine), to occupy"
+  },
+  {
+    "word": "einpacken",
+    "forms": "packt ein, packte ein, hat eingepackt",
+    "translation": "to pack, to wrap"
+  },
+  {
+    "word": "einrichten",
+    "forms": "richtet ein, richtete ein, hat eingerichtet",
+    "translation": "to furnish, to set up"
+  },
+  {
+    "word": "einschalten",
+    "forms": "schaltet ein, schaltete ein, hat eingeschaltet",
+    "translation": "to turn on, to switch on"
+  },
+  {
+    "word": "einsetzen",
+    "forms": "setzt ein, setzte ein, hat eingesetzt",
+    "translation": "to use, to insert, to advocate"
+  },
+  {
+    "word": "einsteigen",
+    "forms": "steigt ein, stieg ein, ist eingestiegen",
+    "translation": "to board / get in (vehicle)"
+  },
+  {
+    "word": "einstellen",
+    "forms": "stellt ein, stellte ein, hat eingestellt",
+    "translation": "to adjust / hire / stop"
+  },
+  {
+    "word": "eintragen",
+    "forms": "trägt ein, trug ein, hat eingetragen",
+    "translation": "to register / enter (information)"
+  },
+  {
+    "word": "eintreten",
+    "forms": "tritt ein, trat ein, ist eingetreten",
+    "translation": "to enter / join / occur"
+  },
+  {
+    "word": "einverstanden",
+    "forms": null,
+    "translation": "agreed / in agreement"
+  },
+  {
+    "word": "einzahlen",
+    "forms": "zahlt ein, zahlte ein, hat eingezahlt",
+    "translation": "to deposit (money)"
+  },
+  {
+    "word": "einzeln",
+    "forms": null,
+    "translation": "individual / single / separately"
+  },
+  {
+    "word": "einziehen",
+    "forms": "zieht ein, zog ein, ist eingezogen",
+    "translation": "to move in / collect"
+  },
+  {
+    "word": "empfangen",
+    "forms": "empfängt, empfing, hat empfangen",
+    "translation": "to receive, to welcome"
+  },
+  {
+    "word": "empfehlen",
+    "forms": "empfiehlt, empfahl, hat empfohlen",
+    "translation": "to recommend"
+  },
+  {
+    "word": "enden",
+    "forms": "endet, endete, hat geendet",
+    "translation": "to end, to finish"
+  },
+  {
+    "word": "entdecken",
+    "forms": "entdeckt, entdeckte, hat entdeckt",
+    "translation": "to discover"
+  },
+  {
+    "word": "entgegenkommen",
+    "forms": null,
+    "translation": "to come towards, to meet halfway"
+  },
+  {
+    "word": "enthalten",
+    "forms": "enthält, enthielt, hat enthalten",
+    "translation": "to contain"
+  },
+  {
+    "word": "entlassen",
+    "forms": "entlässt, entließ, hat entlassen",
+    "translation": "to discharge, to fire, to lay off"
+  },
+  {
+    "word": "entscheiden",
+    "forms": "entscheidet, entschied, hat entschieden",
+    "translation": "to decide"
+  },
+  {
+    "word": "sich entscheiden",
+    "forms": "entscheidet sich, entschied sich, hat sich entschieden",
+    "translation": "to decide"
+  },
+  {
+    "word": "sich entschließen",
+    "forms": "entschließt sich, entschloss sich, hat sich entschlossen",
+    "translation": "to make up one's mind, to decide"
+  },
+  {
+    "word": "entschuldigen",
+    "forms": "entschuldigt, entschuldigte, hat entschuldigt",
+    "translation": "to excuse, to apologize"
+  },
+  {
+    "word": "entsorgen",
+    "forms": "entsorgt, entsorgte, hat entsorgt",
+    "translation": "to dispose of, to recycle"
+  },
+  {
+    "word": "entstehen",
+    "forms": "entsteht, entstand, ist entstanden",
+    "translation": "to arise, to occur, to develop"
+  },
+  {
+    "word": "enttäuschen",
+    "forms": "enttäuscht, enttäuschte, hat enttäuscht",
+    "translation": "to disappoint"
+  },
+  {
+    "word": "entwickeln",
+    "forms": "entwickelt, entwickelte, hat entwickelt",
+    "translation": "to develop"
+  },
+  {
+    "word": "erfahren",
+    "forms": "erfährt, erfuhr, hat erfahren",
+    "translation": "to experience, to find out"
+  },
+  {
+    "word": "erfinden",
+    "forms": "erfindet, erfand, hat erfunden",
+    "translation": "to invent"
+  },
+  {
+    "word": "erfordern",
+    "forms": "erfordert, erforderte, hat erfordert",
+    "translation": "to require / demand"
+  },
+  {
+    "word": "erfüllen",
+    "forms": "erfüllt, erfüllte, hat erfüllt",
+    "translation": "to fulfill / satisfy"
+  },
+  {
+    "word": "ergänzen",
+    "forms": "ergänzt, ergänzte, hat ergänzt",
+    "translation": "to complete / add"
+  },
+  {
+    "word": "erhalten",
+    "forms": "erhält, erhielt, hat erhalten",
+    "translation": "to receive, to obtain"
+  },
+  {
+    "word": "erhöhen",
+    "forms": "erhöht, erhöhte, hat erhöht",
+    "translation": "to increase, to raise"
+  },
+  {
+    "word": "sich erholen",
+    "forms": "erholt sich, erholte sich, hat sich erholt",
+    "translation": "to recover, to rest, to recuperate"
+  },
+  {
+    "word": "erinnern",
+    "forms": "erinnert, erinnerte, hat erinnert",
+    "translation": "to remind, to remember"
+  },
+  {
+    "word": "sich erkälten",
+    "forms": "erkältet sich, erkältete sich, hat sich erkältet",
+    "translation": "to catch a cold"
+  },
+  {
+    "word": "erkennen",
+    "forms": "erkennt, erkannte, hat erkannt",
+    "translation": "to recognize, to realize"
+  },
+  {
+    "word": "erklären",
+    "forms": "erklärt, erklärte, hat erklärt",
+    "translation": "to explain"
+  },
+  {
+    "word": "sich erkundigen",
+    "forms": "erkundigt, erkundigte, hat erkundigt",
+    "translation": "to inquire, to ask about"
+  },
+  {
+    "word": "erlauben",
+    "forms": "erlaubt, erlaubte, hat erlaubt",
+    "translation": "to allow, to permit"
+  },
+  {
+    "word": "erleben",
+    "forms": "erlebt, erlebte, hat erlebt",
+    "translation": "to experience, to witness"
+  },
+  {
+    "word": "erledigen",
+    "forms": "erledigt, erledigte, hat erledigt",
+    "translation": "to take care of, to settle, to complete"
+  },
+  {
+    "word": "erleichtern",
+    "forms": "erleichtert, erleichterte, hat erleichtert",
+    "translation": "to make easier, to relieve"
+  },
+  {
+    "word": "ernähren",
+    "forms": "ernährt, ernährte, hat ernährt",
+    "translation": "to nourish, to support (family)"
+  },
+  {
+    "word": "eröffnen",
+    "forms": "eröffnet, eröffnete, hat eröffnet",
+    "translation": "to open, to establish"
+  },
+  {
+    "word": "erreichen",
+    "forms": "erreicht, erreichte, hat erreicht",
+    "translation": "to reach, to achieve"
+  },
+  {
+    "word": "erschrecken",
+    "forms": "erschreckt, erschrak, ist erschrocken / jdn. erschrecken, erschreckt, erschreckte, hat erschreckt",
+    "translation": "to be startled, to frighten, to scare"
+  },
+  {
+    "word": "ersetzen",
+    "forms": "ersetzt, ersetzte, hat ersetzt",
+    "translation": "to replace, to reimburse"
+  },
+  {
+    "word": "erstellen",
+    "forms": "erstellt, erstellte, hat erstellt",
+    "translation": "to create / generate"
+  },
+  {
+    "word": "erwarten",
+    "forms": "erwartet, erwartete, hat erwartet",
+    "translation": "to expect, to wait for"
+  },
+  {
+    "word": "erzählen",
+    "forms": "erzählt, erzählte, hat erzählt",
+    "translation": "to tell, to narrate"
+  },
+  {
+    "word": "erziehen",
+    "forms": "erzieht, erzog, hat erzogen",
+    "translation": "to bring up, to raise, to educate"
+  },
+  {
+    "word": "essen",
+    "forms": "isst, aß, hat gegessen",
+    "translation": "to eat"
+  },
+  {
+    "word": "fahren",
+    "forms": "fährt, fuhr, ist/hat gefahren",
+    "translation": "to drive / travel / ride"
+  },
+  {
+    "word": "fallen",
+    "forms": "fällt, fiel, ist gefallen",
+    "translation": "to fall"
+  },
+  {
+    "word": "fangen",
+    "forms": "fängt, fing, hat gefangen",
+    "translation": "to catch"
+  },
+  {
+    "word": "faxen",
+    "forms": "faxt, faxte, hat gefaxt",
+    "translation": "to fax"
+  },
+  {
+    "word": "fehlen",
+    "forms": "fehlt, fehlte, hat gefehlt",
+    "translation": "to be missing / absent"
+  },
+  {
+    "word": "feiern",
+    "forms": "feiert, feierte, hat gefeiert",
+    "translation": "to celebrate"
+  },
+  {
+    "word": "fernsehen",
+    "forms": "sieht fern, sah fern, hat ferngesehen",
+    "translation": "to watch TV"
+  },
+  {
+    "word": "festhalten",
+    "forms": "hält fest, hielt fest, hat festgehalten",
+    "translation": "to hold tight"
+  },
+  {
+    "word": "festlegen",
+    "forms": "legt fest, legte fest, hat festgelegt",
+    "translation": "to set / determine / commit"
+  },
+  {
+    "word": "festnehmen",
+    "forms": "nimmt fest, nahm fest, hat festgenommen",
+    "translation": "to arrest"
+  },
+  {
+    "word": "festsetzen",
+    "forms": "setzt fest, setzte fest, hat festgesetzt",
+    "translation": "to establish / set"
+  },
+  {
+    "word": "feststellen",
+    "forms": "stellt fest, stellte fest, hat festgestellt",
+    "translation": "to determine / notice"
+  },
+  {
+    "word": "finanzieren",
+    "forms": "finanziert, finanzierte, hat finanziert",
+    "translation": "to finance"
+  },
+  {
+    "word": "finden",
+    "forms": "findet, fand, hat gefunden",
+    "translation": "to find"
+  },
+  {
+    "word": "fliegen",
+    "forms": "fliegt, flog, ist geflogen",
+    "translation": "to fly"
+  },
+  {
+    "word": "fliehen",
+    "forms": "flieht, floh, ist geflohen",
+    "translation": "to flee / escape"
+  },
+  {
+    "word": "fließen",
+    "forms": "fließt, floss, ist geflossen",
+    "translation": "to flow"
+  },
+  {
+    "word": "fördern",
+    "forms": "fördert, förderte, hat gefördert",
+    "translation": "to promote / support / sponsor"
+  },
+  {
+    "word": "folgen",
+    "forms": "folgt, folgte, ist gefolgt",
+    "translation": "to follow"
+  },
+  {
+    "word": "fordern",
+    "forms": "fordert, forderte, hat gefordert",
+    "translation": "to demand"
+  },
+  {
+    "word": "fortsetzen",
+    "forms": "setzt fort, setzte fort, hat fortgesetzt",
+    "translation": "to continue"
+  },
+  {
+    "word": "fotografieren",
+    "forms": "fotografiert, fotografierte, hat fotografiert",
+    "translation": "to photograph"
+  },
+  {
+    "word": "fragen",
+    "forms": "fragt, fragte, hat gefragt",
+    "translation": "to ask"
+  },
+  {
+    "word": "fressen",
+    "forms": "frisst, fraß, hat gefressen",
+    "translation": "to eat (of animals)"
+  },
+  {
+    "word": "sich freuen",
+    "forms": "freut sich, freute sich, hat sich gefreut",
+    "translation": "to be happy / look forward to"
+  },
+  {
+    "word": "frieren",
+    "forms": "friert, fror, hat gefroren",
+    "translation": "to freeze / feel cold"
+  },
+  {
+    "word": "frühstücken",
+    "forms": "frühstückt, frühstückte, hat gefrühstückt",
+    "translation": "to eat breakfast"
+  },
+  {
+    "word": "fühlen",
+    "forms": "fühlt, fühlte, hat gefühlt",
+    "translation": "to feel / touch"
+  },
+  {
+    "word": "führen",
+    "forms": "führt, führte, hat geführt",
+    "translation": "to lead / guide / manage"
+  },
+  {
+    "word": "funktionieren",
+    "forms": "funktioniert, funktionierte, hat funktioniert",
+    "translation": "to function / work"
+  },
+  {
+    "word": "gehören",
+    "forms": "gehört, gehörte, hat gehört",
+    "translation": "to belong to"
+  },
+  {
+    "word": "geschehen",
+    "forms": "geschieht, geschah, ist geschehen",
+    "translation": "to happen"
+  },
+  {
+    "word": "geschieden",
+    "forms": null,
+    "translation": "divorced"
+  },
+  {
+    "word": "gestern",
+    "forms": null,
+    "translation": "yesterday"
+  },
+  {
+    "word": "glauben",
+    "forms": "glaubt, glaubte, hat geglaubt",
+    "translation": "to believe / think"
+  },
+  {
+    "word": "gucken",
+    "forms": "guckt, guckte, hat geguckt",
+    "translation": "to look / watch"
+  },
+  {
+    "word": "haben",
+    "forms": "hat, hatte, hat gehabt",
+    "translation": "to have"
+  },
+  {
+    "word": "hängen",
+    "forms": "hängt, hing, hat gehangen",
+    "translation": "to hang"
+  },
+  {
+    "word": "halten",
+    "forms": "hält, hielt, hat gehalten",
+    "translation": "to hold / stop"
+  },
+  {
+    "word": "halten, hält, hielt, hat gehalten",
+    "forms": null,
+    "translation": "to hold/stop/last"
+  },
+  {
+    "word": "handeln",
+    "forms": "handelt, handelte, hat gehandelt",
+    "translation": "to act / deal / trade"
+  },
+  {
+    "word": "heben, hebt, hob, hat gehoben",
+    "forms": null,
+    "translation": "to lift/raise"
+  },
+  {
+    "word": "heiraten",
+    "forms": "heiratet, heiratete, hat geheiratet",
+    "translation": "to marry"
+  },
+  {
+    "word": "heißen",
+    "forms": "heißt, hieß, hat geheißen",
+    "translation": "to be called"
+  },
+  {
+    "word": "heißen, heißt, hieß, hat geheißen",
+    "forms": null,
+    "translation": "to be called/to mean"
+  },
+  {
+    "word": "heizen",
+    "forms": "heizt, heizte, hat geheizt",
+    "translation": "to heat"
+  },
+  {
+    "word": "helfen",
+    "forms": "hilft, half, hat geholfen",
+    "translation": "to help"
+  },
+  {
+    "word": "helfen, hilft, half, hat geholfen",
+    "forms": null,
+    "translation": "to help"
+  },
+  {
+    "word": "hinten",
+    "forms": null,
+    "translation": "behind/at the back"
+  },
+  {
+    "word": "hinterlassen, hinterlässt, hinterließ, hat hinterlassen",
+    "forms": null,
+    "translation": "to leave behind"
+  },
+  {
+    "word": "hinweisen",
+    "forms": null,
+    "translation": "to point out/advise"
+  },
+  {
+    "word": "hören",
+    "forms": "hört, hörte, hat gehört",
+    "translation": "to hear / listen"
+  },
+  {
+    "word": "hoffen",
+    "forms": "hofft, hoffte, hat gehofft",
+    "translation": "to hope"
+  },
+  {
+    "word": "holen",
+    "forms": "holt, holte, hat geholt",
+    "translation": "to fetch / get"
+  },
+  {
+    "word": "hupen",
+    "forms": "hupt, hupte, hat gehupt",
+    "translation": "to honk"
+  },
+  {
+    "word": "husten",
+    "forms": "hustet, hustete, hat gehustet",
+    "translation": "to cough"
+  },
+  {
+    "word": "impfen",
+    "forms": "impft, impfte, hat geimpft",
+    "translation": "to vaccinate"
+  },
+  {
+    "word": "informieren",
+    "forms": "informiert, informierte, hat informiert",
+    "translation": "to inform"
+  },
+  {
+    "word": "innen",
+    "forms": null,
+    "translation": "inside"
+  },
+  {
+    "word": "installieren",
+    "forms": "installiert, installierte, hat installiert",
+    "translation": "to install"
+  },
+  {
+    "word": "integrieren",
+    "forms": "integriert, integrierte, hat integriert",
+    "translation": "to integrate"
+  },
+  {
+    "word": "interessieren",
+    "forms": "interessiert, interessierte, hat interessiert",
+    "translation": "to interest / be interested in"
+  },
+  {
+    "word": "sich interessieren",
+    "forms": "interessiert sich, interessierte sich, hat sich interessiert",
+    "translation": "to be interested (in)"
+  },
+  {
+    "word": "inzwischen",
+    "forms": null,
+    "translation": "in the meantime / by now"
+  },
+  {
+    "word": "irren",
+    "forms": "irrt, irrte, hat geirrt",
+    "translation": "to err / be mistaken"
+  },
+  {
+    "word": "isolieren",
+    "forms": "isoliert, isolierte, hat isoliert",
+    "translation": "to insulate / isolate"
+  },
+  {
+    "word": "jdn. krankschreiben",
+    "forms": "schreibt krank, schrieb krank, hat krankgeschrieben",
+    "translation": "to sign someone off sick"
+  },
+  {
+    "word": "jobben",
+    "forms": "jobbt, jobbte, hat gejobbt",
+    "translation": "to work casual jobs"
+  },
+  {
+    "word": "joggen",
+    "forms": "joggt, joggte, ist gejoggt",
+    "translation": "to jog"
+  },
+  {
+    "word": "kämpfen",
+    "forms": "kämpft, kämpfte, hat gekämpft",
+    "translation": "to fight"
+  },
+  {
+    "word": "kaputtgehen",
+    "forms": null,
+    "translation": "to break / go broken"
+  },
+  {
+    "word": "kaputtmachen",
+    "forms": "macht kaputt, machte kaputt, hat kaputtgemacht",
+    "translation": "to break / destroy"
+  },
+  {
+    "word": "kaufen",
+    "forms": "kauft, kaufte, hat gekauft",
+    "translation": "to buy"
+  },
+  {
+    "word": "kennen",
+    "forms": "kennt, kannte, hat gekannt",
+    "translation": "to know (a person, place, or thing)"
+  },
+  {
+    "word": "kennenlernen",
+    "forms": "lernt kennen, lernte kennen, hat kennengelernt",
+    "translation": "to get to know"
+  },
+  {
+    "word": "klingeln",
+    "forms": "klingelt, klingelte, hat geklingelt",
+    "translation": "to ring (doorbell or phone)"
+  },
+  {
+    "word": "klingen",
+    "forms": "klingt, klang, hat geklungen",
+    "translation": "to sound"
+  },
+  {
+    "word": "klopfen",
+    "forms": "klopft, klopfte, hat geklopft",
+    "translation": "to knock"
+  },
+  {
+    "word": "kochen",
+    "forms": "kocht, kochte, hat gekocht",
+    "translation": "to cook / boil"
+  },
+  {
+    "word": "kommen",
+    "forms": "kommt, kam, ist gekommen",
+    "translation": "to come"
+  },
+  {
+    "word": "konzentrieren",
+    "forms": "konzentriert sich, konzentrierte sich, hat sich konzentriert",
+    "translation": "to concentrate"
+  },
+  {
+    "word": "kopieren",
+    "forms": "kopiert, kopierte, hat kopiert",
+    "translation": "to copy"
+  },
+  {
+    "word": "korrigieren",
+    "forms": "korrigiert, korrigierte, hat korrigiert",
+    "translation": "to correct"
+  },
+  {
+    "word": "kosten",
+    "forms": "kostet, kostete, hat gekostet",
+    "translation": "to cost / taste"
+  },
+  {
+    "word": "krankmelden",
+    "forms": "meldet krank, meldete krank, hat krankgemeldet",
+    "translation": "to report in sick"
+  },
+  {
+    "word": "kriegen",
+    "forms": "kriegt, kriegte, hat gekriegt",
+    "translation": "to get / receive"
+  },
+  {
+    "word": "kritisieren",
+    "forms": "kritisiert, kritisierte, hat kritisiert",
+    "translation": "to criticize"
+  },
+  {
+    "word": "kümmern",
+    "forms": "kümmert sich, kümmerte sich, hat sich gekümmert",
+    "translation": "to take care of / look after"
+  },
+  {
+    "word": "kündigen",
+    "forms": "kündigt, kündigte, hat gekündigt",
+    "translation": "to resign / cancel / terminate"
+  },
+  {
+    "word": "lachen",
+    "forms": "lacht, lachte, hat gelacht",
+    "translation": "to laugh"
+  },
+  {
+    "word": "laden",
+    "forms": "lädt, lud, hat geladen",
+    "translation": "to load / invite"
+  },
+  {
+    "word": "lächeln",
+    "forms": "lächelt, lächelte, hat gelächelt",
+    "translation": "to smile"
+  },
+  {
+    "word": "landen",
+    "forms": "landet, landete, ist gelandet",
+    "translation": "to land"
+  },
+  {
+    "word": "lassen",
+    "forms": "lässt, ließ, hat gelassen",
+    "translation": "to let / allow / leave"
+  },
+  {
+    "word": "laufen",
+    "forms": "läuft, lief, ist gelaufen",
+    "translation": "to run / walk"
+  },
+  {
+    "word": "leben",
+    "forms": "lebt, lebte, hat gelebt",
+    "translation": "to live"
+  },
+  {
+    "word": "legen",
+    "forms": "legt, legte, hat gelegt",
+    "translation": "to lay / put down horizontally"
+  },
+  {
+    "word": "leiden",
+    "forms": "leidet, litt, hat gelitten",
+    "translation": "to suffer"
+  },
+  {
+    "word": "leihen",
+    "forms": "leiht, lieh, hat geliehen",
+    "translation": "to lend / borrow"
+  },
+  {
+    "word": "leisten",
+    "forms": "leistet, leistete, hat geleistet",
+    "translation": "to afford / to perform"
+  },
+  {
+    "word": "leiten",
+    "forms": "leitet, leitete, hat geleitet",
+    "translation": "to lead / to direct / to manage"
+  },
+  {
+    "word": "lernen",
+    "forms": "lernt, lernte, hat gelernt",
+    "translation": "to learn / study"
+  },
+  {
+    "word": "lesen",
+    "forms": "liest, las, hat gelesen",
+    "translation": "to read"
+  },
+  {
+    "word": "lieben",
+    "forms": "liebt, liebte, hat geliebt",
+    "translation": "to love"
+  },
+  {
+    "word": "liefern",
+    "forms": "liefert, lieferte, hat geliefert",
+    "translation": "to deliver"
+  },
+  {
+    "word": "liegen",
+    "forms": "liegt, lag, hat/ist gelegen",
+    "translation": "to lie / be situated"
+  },
+  {
+    "word": "loben",
+    "forms": "lobt, lobte, hat gelobt",
+    "translation": "to praise"
+  },
+  {
+    "word": "löschen",
+    "forms": "löscht, löschte, hat gelöscht",
+    "translation": "to delete / extinguish / put out"
+  },
+  {
+    "word": "lösen",
+    "forms": "löst, löste, hat gelöst",
+    "translation": "to solve / loosen / dissolve / buy"
+  },
+  {
+    "word": "sich lohnen",
+    "forms": "lohnt sich, lohnte sich, hat sich gelohnt",
+    "translation": "to be worthwhile / pay off"
+  },
+  {
+    "word": "losfahren",
+    "forms": "fährt los, fuhr los, ist losgefahren",
+    "translation": "to drive off / set off"
+  },
+  {
+    "word": "lügen",
+    "forms": "lügt, log, hat gelogen",
+    "translation": "to lie (tell an untruth)"
+  },
+  {
+    "word": "Lust haben",
+    "forms": null,
+    "translation": "to feel like / have a desire"
+  },
+  {
+    "word": "machen",
+    "forms": "macht, machte, hat gemacht",
+    "translation": "to make / do"
+  },
+  {
+    "word": "malen",
+    "forms": "malt, malte, hat gemalt",
+    "translation": "to paint / draw"
+  },
+  {
+    "word": "markieren",
+    "forms": "markiert, markierte, hat markiert",
+    "translation": "to mark / highlight"
+  },
+  {
+    "word": "meinen",
+    "forms": "meint, meinte, hat gemeint",
+    "translation": "to think / mean / believe"
+  },
+  {
+    "word": "meinetwegen",
+    "forms": null,
+    "translation": "for all I care / because of me"
+  },
+  {
+    "word": "melden",
+    "forms": "meldet, meldete, hat gemeldet",
+    "translation": "to report / get in touch"
+  },
+  {
+    "word": "merken",
+    "forms": "merkt, merkte, hat gemerkt",
+    "translation": "to notice / to remember"
+  },
+  {
+    "word": "messen",
+    "forms": "misst, maß, hat gemessen",
+    "translation": "to measure"
+  },
+  {
+    "word": "mieten",
+    "forms": "mietet, mietete, hat gemietet",
+    "translation": "to rent"
+  },
+  {
+    "word": "mischen",
+    "forms": "mischt, mischte, hat gemischt",
+    "translation": "to mix"
+  },
+  {
+    "word": "missverstehen",
+    "forms": "missversteht, missverstand, hat missverstanden",
+    "translation": "to misunderstand"
+  },
+  {
+    "word": "Mit freundlichen Grüßen",
+    "forms": null,
+    "translation": "With kind regards / Yours sincerely"
+  },
+  {
+    "word": "mitbringen",
+    "forms": "bringt mit, brachte mit, hat mitgebracht",
+    "translation": "to bring along"
+  },
+  {
+    "word": "mitmachen",
+    "forms": "macht mit, machte mit, hat mitgemacht",
+    "translation": "to join in / participate"
+  },
+  {
+    "word": "mitteilen",
+    "forms": "teilt mit, teilte mit, hat mitgeteilt",
+    "translation": "to inform / to notify"
+  },
+  {
+    "word": "mitten",
+    "forms": null,
+    "translation": "in the middle of"
+  },
+  {
+    "word": "modern",
+    "forms": null,
+    "translation": "modern"
+  },
+  {
+    "word": "mögen",
+    "forms": "mag, mochte, hat gemocht",
+    "translation": "to like"
+  },
+  {
+    "word": "müssen",
+    "forms": "muss, musste, hat gemusst",
+    "translation": "must / to have to"
+  },
+  {
+    "word": "nachdenken",
+    "forms": "denkt nach, dachte nach, hat nachgedacht",
+    "translation": "to reflect / think about"
+  },
+  {
+    "word": "nachholen",
+    "forms": "holt nach, holte nach, hat nachgeholt",
+    "translation": "to catch up on"
+  },
+  {
+    "word": "nachschlagen",
+    "forms": "schlägt nach, schlug nach, hat nachgeschlagen",
+    "translation": "to look up (in a book)"
+  },
+  {
+    "word": "nähen",
+    "forms": "näht, nähte, hat genäht",
+    "translation": "to sew"
+  },
+  {
+    "word": "neben",
+    "forms": null,
+    "translation": "next to"
+  },
+  {
+    "word": "nehmen",
+    "forms": "nimmt, nahm, hat genommen",
+    "translation": "to take"
+  },
+  {
+    "word": "nennen",
+    "forms": "nennt, nannte, hat genannt",
+    "translation": "to call / name"
+  },
+  {
+    "word": "notieren",
+    "forms": null,
+    "translation": "to note down"
+  },
+  {
+    "word": "nützen",
+    "forms": "nützt, nützte, hat genützt",
+    "translation": "to be useful"
+  },
+  {
+    "word": "nutzen",
+    "forms": "nutzt, nutzte, hat genutzt",
+    "translation": "to use / utilize"
+  },
+  {
+    "word": "oben",
+    "forms": null,
+    "translation": "above / upstairs"
+  },
+  {
+    "word": "öffnen",
+    "forms": "öffnet, öffnete, hat geöffnet",
+    "translation": "to open"
+  },
+  {
+    "word": "offen",
+    "forms": null,
+    "translation": "open / frank / candid"
+  },
+  {
+    "word": "operieren",
+    "forms": "operiert, operierte, hat operiert",
+    "translation": "to operate on"
+  },
+  {
+    "word": "ordnen",
+    "forms": "ordnet, ordnete, hat geordnet",
+    "translation": "to arrange / organize"
+  },
+  {
+    "word": "organisieren",
+    "forms": "organisiert, organisierte, hat organisiert",
+    "translation": "to organize"
+  },
+  {
+    "word": "packen",
+    "forms": "packt, packte, hat gepackt",
+    "translation": "to pack / grab"
+  },
+  {
+    "word": "parken",
+    "forms": "parken, parkte, hat geparkt",
+    "translation": "to park (a vehicle)"
+  },
+  {
+    "word": "passen",
+    "forms": "passt, passte, hat gepasst",
+    "translation": "to fit / suit"
+  },
+  {
+    "word": "passieren",
+    "forms": "passiert, passierte, ist passiert",
+    "translation": "to happen"
+  },
+  {
+    "word": "Pech haben",
+    "forms": null,
+    "translation": "to have bad luck"
+  },
+  {
+    "word": "pflegen",
+    "forms": "pflegt, pflegte, hat gepflegt",
+    "translation": "to care for / nurse / maintain"
+  },
+  {
+    "word": "planen",
+    "forms": "plant, plante, hat geplant",
+    "translation": "to plan"
+  },
+  {
+    "word": "präsentieren",
+    "forms": "präsentiert, präsentierte, hat präsentiert",
+    "translation": "to present"
+  },
+  {
+    "word": "probieren",
+    "forms": "probiert, probierte, hat probiert",
+    "translation": "to try / taste"
+  },
+  {
+    "word": "produzieren",
+    "forms": "produziert, produzierte, hat produziert",
+    "translation": "to produce"
+  },
+  {
+    "word": "protestieren",
+    "forms": "protestiert, protestierte, hat protestiert",
+    "translation": "to protest"
+  },
+  {
+    "word": "prüfen",
+    "forms": "prüft, prüfte, hat geprüft",
+    "translation": "to check / to test"
+  },
+  {
+    "word": "putzen",
+    "forms": "putzt, putzte, hat geputzt",
+    "translation": "to clean / polish"
+  },
+  {
+    "word": "quatschen",
+    "forms": "quatscht, quatschte, hat gequatscht",
+    "translation": "to chat / talk nonsense"
+  },
+  {
+    "word": "Rad fahren",
+    "forms": "fährt Rad, fuhr Rad, ist Rad gefahren",
+    "translation": "to cycle"
+  },
+  {
+    "word": "rasieren",
+    "forms": "rasiert, rasierte, hat rasiert",
+    "translation": "to shave"
+  },
+  {
+    "word": "raten",
+    "forms": "rät, riet, hat geraten",
+    "translation": "to advise/guess"
+  },
+  {
+    "word": "rauchen",
+    "forms": "raucht, rauchte, hat geraucht",
+    "translation": "to smoke"
+  },
+  {
+    "word": "reagieren",
+    "forms": "reagiert, reagierte, hat reagiert",
+    "translation": "to react"
+  },
+  {
+    "word": "rechnen",
+    "forms": "rechnet, rechnete, hat gerechnet",
+    "translation": "to calculate / expect"
+  },
+  {
+    "word": "Recht haben",
+    "forms": null,
+    "translation": "to be right"
+  },
+  {
+    "word": "reden",
+    "forms": "redet, redete, hat geredet",
+    "translation": "to talk / speak"
+  },
+  {
+    "word": "reduzieren",
+    "forms": "reduziert, reduzierte, hat reduziert",
+    "translation": "to reduce"
+  },
+  {
+    "word": "regeln",
+    "forms": "regelt, regelte, hat geregelt",
+    "translation": "to regulate/direct"
+  },
+  {
+    "word": "regnen",
+    "forms": "regnet, regnete, hat geregnet",
+    "translation": "to rain"
+  },
+  {
+    "word": "reichen",
+    "forms": "reicht, reichte, hat gereicht",
+    "translation": "to be enough/to reach"
+  },
+  {
+    "word": "reinigen",
+    "forms": "reinigt, reinigte, hat gereinigt",
+    "translation": "to clean / dry-clean"
+  },
+  {
+    "word": "reisen",
+    "forms": "reist, reiste, ist gereist",
+    "translation": "to travel"
+  },
+  {
+    "word": "reiten",
+    "forms": "reitet, ritt, ist geritten",
+    "translation": "to ride (a horse)"
+  },
+  {
+    "word": "rennen",
+    "forms": "rennt, rannte, ist gerannt",
+    "translation": "to run"
+  },
+  {
+    "word": "renovieren",
+    "forms": "renoviert, renovierte, hat renoviert",
+    "translation": "to renovate"
+  },
+  {
+    "word": "reparieren",
+    "forms": "repariert, reparierte, hat repariert",
+    "translation": "to repair"
+  },
+  {
+    "word": "reservieren",
+    "forms": "reserviert, reservierte, hat reserviert",
+    "translation": "to reserve"
+  },
+  {
+    "word": "retten",
+    "forms": "rettet, rettete, hat gerettet",
+    "translation": "to save"
+  },
+  {
+    "word": "riechen",
+    "forms": "riecht, roch, hat gerochen",
+    "translation": "to smell"
+  },
+  {
+    "word": "rücken",
+    "forms": null,
+    "translation": "to move/shift"
+  },
+  {
+    "word": "rühren",
+    "forms": "rührt, rührte, hat gerührt",
+    "translation": "to stir"
+  },
+  {
+    "word": "rufen",
+    "forms": "ruft, rief, hat gerufen",
+    "translation": "to call / shout"
+  },
+  {
+    "word": "ruhen",
+    "forms": "ruht, ruhte, hat geruht",
+    "translation": "to rest"
+  },
+  {
+    "word": "sagen",
+    "forms": "sagt, sagte, hat gesagt",
+    "translation": "to say / tell"
+  },
+  {
+    "word": "sammeln",
+    "forms": "sammelt, sammelte, hat gesammelt",
+    "translation": "to collect / gather"
+  },
+  {
+    "word": "schaden",
+    "forms": "schadet, schadete, hat geschadet",
+    "translation": "to damage / harm"
+  },
+  {
+    "word": "schaffen",
+    "forms": "schafft, schaffte, hat geschafft",
+    "translation": "to manage / accomplish / succeed"
+  },
+  {
+    "word": "schauen",
+    "forms": "schaut, schaute, hat geschaut",
+    "translation": "to look / watch"
+  },
+  {
+    "word": "scheinen",
+    "forms": "scheint, schien, hat geschienen",
+    "translation": "to shine / seem"
+  },
+  {
+    "word": "schenken",
+    "forms": "schenkt, schenkte, hat geschenkt",
+    "translation": "to give (a present)"
+  },
+  {
+    "word": "schicken",
+    "forms": "schickt, schickte, hat geschickt",
+    "translation": "to send"
+  },
+  {
+    "word": "schlafen",
+    "forms": "schläft, schlief, hat geschlafen",
+    "translation": "to sleep"
+  },
+  {
+    "word": "schlagen",
+    "forms": "schlägt, schlug, hat geschlagen",
+    "translation": "to hit / beat"
+  },
+  {
+    "word": "schließen",
+    "forms": "schließt, schloss, hat geschlossen",
+    "translation": "to close / lock / conclude"
+  },
+  {
+    "word": "schmecken",
+    "forms": "schmeckt, schmeckte, hat geschmeckt",
+    "translation": "to taste"
+  },
+  {
+    "word": "schneiden",
+    "forms": "schneidet, schnitt, hat geschnitten",
+    "translation": "to cut"
+  },
+  {
+    "word": "schneien",
+    "forms": "schneit, schneite, hat geschneit",
+    "translation": "to snow"
+  },
+  {
+    "word": "schreiben",
+    "forms": "schreibt, schrieb, hat geschrieben",
+    "translation": "to write"
+  },
+  {
+    "word": "schreien",
+    "forms": "schreit, schrie, hat geschrien",
+    "translation": "to shout / scream"
+  },
+  {
+    "word": "schützen",
+    "forms": "schützt, schützte, hat geschützt",
+    "translation": "to protect"
+  },
+  {
+    "word": "schwimmen",
+    "forms": "schwimmt, schwamm, ist geschwommen",
+    "translation": "to swim"
+  },
+  {
+    "word": "schwitzen",
+    "forms": "schwitzt, schwitzte, hat geschwitzt",
+    "translation": "to sweat"
+  },
+  {
+    "word": "sehen",
+    "forms": "sieht, sah, hat gesehen",
+    "translation": "to see / watch"
+  },
+  {
+    "word": "selten",
+    "forms": null,
+    "translation": "rarely"
+  },
+  {
+    "word": "senden",
+    "forms": "sendet, sendete, hat gesendet",
+    "translation": "to send / broadcast"
+  },
+  {
+    "word": "setzen",
+    "forms": "setzt, setzte, hat gesetzt",
+    "translation": "to set / place / sit down"
+  },
+  {
+    "word": "sichern",
+    "forms": "sichert, sicherte, hat gesichert",
+    "translation": "to secure / backup / safeguard"
+  },
+  {
+    "word": "singen",
+    "forms": "singt, sang, hat gesungen",
+    "translation": "to sing"
+  },
+  {
+    "word": "sitzen",
+    "forms": "sitzt, saß, hat/ist gesessen",
+    "translation": "to sit"
+  },
+  {
+    "word": "sollen",
+    "forms": "soll, sollte, hat gesollt",
+    "translation": "should / ought to"
+  },
+  {
+    "word": "sondern",
+    "forms": null,
+    "translation": "but (rather)"
+  },
+  {
+    "word": "Sorgen machen",
+    "forms": null,
+    "translation": "to worry"
+  },
+  {
+    "word": "sparen",
+    "forms": "spart, sparte, hat gespart",
+    "translation": "to save (money/energy)"
+  },
+  {
+    "word": "Spaß machen",
+    "forms": null,
+    "translation": "to be fun"
+  },
+  {
+    "word": "spazieren gehen",
+    "forms": "geht spazieren, ging spazieren, ist spazieren gegangen",
+    "translation": "to go for a walk"
+  },
+  {
+    "word": "speichern",
+    "forms": "speichert, speicherte, hat gespeichert",
+    "translation": "to save / store (data)"
+  },
+  {
+    "word": "spielen",
+    "forms": "spielt, spielte, hat gespielt",
+    "translation": "to play / act"
+  },
+  {
+    "word": "sprechen",
+    "forms": "spricht, sprach, hat gesprochen",
+    "translation": "to speak / talk"
+  },
+  {
+    "word": "springen",
+    "forms": "springt, sprang, ist gesprungen",
+    "translation": "to jump"
+  },
+  {
+    "word": "spülen",
+    "forms": "spült, spülte, hat gespült",
+    "translation": "to rinse / wash dishes"
+  },
+  {
+    "word": "starten",
+    "forms": "startet, startete, ist gestartet",
+    "translation": "to start"
+  },
+  {
+    "word": "stattfinden",
+    "forms": "findet statt, fand statt, hat stattgefunden",
+    "translation": "to take place / happen"
+  },
+  {
+    "word": "stecken",
+    "forms": "steckt, steckte, hat gesteckt",
+    "translation": "to stick / put / be located"
+  },
+  {
+    "word": "stehen",
+    "forms": "steht, stand, hat/ist gestanden",
+    "translation": "to stand / be written"
+  },
+  {
+    "word": "stehen bleiben",
+    "forms": null,
+    "translation": "to stop / to remain standing"
+  },
+  {
+    "word": "stehlen",
+    "forms": "stiehlt, stahl, hat gestohlen",
+    "translation": "to steal"
+  },
+  {
+    "word": "steigen",
+    "forms": "steigt, stieg, ist gestiegen",
+    "translation": "to climb / rise / step in"
+  },
+  {
+    "word": "stellen",
+    "forms": "stellt, stellte, hat gestellt",
+    "translation": "to place upright / put / set"
+  },
+  {
+    "word": "sterben",
+    "forms": "stirbt, starb, ist gestorben",
+    "translation": "to die"
+  },
+  {
+    "word": "stimmen",
+    "forms": "stimmt, stimmte, hat gestimmt",
+    "translation": "to be correct / vote"
+  },
+  {
+    "word": "stinken",
+    "forms": "stinkt, stank, hat gestunken",
+    "translation": "to stink"
+  },
+  {
+    "word": "stören",
+    "forms": "stört, störte, hat gestört",
+    "translation": "to disturb / bother"
+  },
+  {
+    "word": "stoppen",
+    "forms": "stoppt, stoppte, hat gestoppt",
+    "translation": "to stop"
+  },
+  {
+    "word": "stoßen",
+    "forms": "stößt, stieß, hat gestoßen",
+    "translation": "to push / bump"
+  },
+  {
+    "word": "streichen",
+    "forms": "streicht, strich, hat gestrichen",
+    "translation": "to paint / to cross out / to cancel"
+  },
+  {
+    "word": "streiken",
+    "forms": "streikt, streikte, hat gestreikt",
+    "translation": "to go on strike"
+  },
+  {
+    "word": "streiten",
+    "forms": "streitet, stritt, hat gestritten",
+    "translation": "to argue / quarrel"
+  },
+  {
+    "word": "studieren",
+    "forms": "studiert, studierte, hat studiert",
+    "translation": "to study (at university)"
+  },
+  {
+    "word": "stürzen",
+    "forms": "stürzt, stürzte, ist gestürzt",
+    "translation": "to fall / crash"
+  },
+  {
+    "word": "suchen",
+    "forms": "sucht, suchte, hat gesucht",
+    "translation": "to search / look for"
+  },
+  {
+    "word": "täuschen",
+    "forms": "täuscht, täuschte, hat getäuscht",
+    "translation": "to deceive / mistake"
+  },
+  {
+    "word": "tanken",
+    "forms": "tankt, tankte, hat getankt",
+    "translation": "to refuel / fill up (fuel)"
+  },
+  {
+    "word": "tanzen",
+    "forms": "tanzt, tanzte, hat getanzt",
+    "translation": "to dance"
+  },
+  {
+    "word": "teilen",
+    "forms": "teilt, teilte, hat geteilt",
+    "translation": "to share / divide"
+  },
+  {
+    "word": "teilnehmen",
+    "forms": "nimmt teil, nahm teil, hat teilgenommen",
+    "translation": "to participate / take part"
+  },
+  {
+    "word": "telefonieren",
+    "forms": "telefoniert, telefonierte, hat telefoniert",
+    "translation": "to make a phone call / talk on the phone"
+  },
+  {
+    "word": "testen",
+    "forms": "testet, testete, hat getestet",
+    "translation": "to test"
+  },
+  {
+    "word": "träumen",
+    "forms": "träumt, träumte, hat geträumt",
+    "translation": "to dream"
+  },
+  {
+    "word": "tragen",
+    "forms": "trägt, trug, hat getragen",
+    "translation": "to wear / carry"
+  },
+  {
+    "word": "trainieren",
+    "forms": "trainiert, trainierte, hat trainiert",
+    "translation": "to train"
+  },
+  {
+    "word": "transportieren",
+    "forms": "transportiert, transportierte, hat transportiert",
+    "translation": "to transport"
+  },
+  {
+    "word": "treffen",
+    "forms": "trifft, traf, hat getroffen",
+    "translation": "to meet"
+  },
+  {
+    "word": "treiben",
+    "forms": "treibt, trieb, hat getrieben",
+    "translation": "to do (sports)"
+  },
+  {
+    "word": "trennen",
+    "forms": "trennt, trennte, hat getrennt",
+    "translation": "to separate"
+  },
+  {
+    "word": "treten",
+    "forms": "tritt, trat, hat/ist getreten",
+    "translation": "to step / to kick"
+  },
+  {
+    "word": "trinken",
+    "forms": "trinkt, trank, hat getrunken",
+    "translation": "to drink"
+  },
+  {
+    "word": "trocken",
+    "forms": null,
+    "translation": "dry"
+  },
+  {
+    "word": "trocknen",
+    "forms": "trocknet, trocknete, ist/hat getrocknet",
+    "translation": "to dry"
+  },
+  {
+    "word": "üben",
+    "forms": "übt, übte, hat geübt",
+    "translation": "to practice"
+  },
+  {
+    "word": "überfahren",
+    "forms": "überfährt, überfuhr, hat überfahren",
+    "translation": "to run over"
+  },
+  {
+    "word": "überholen",
+    "forms": "überholt, überholte, hat überholt",
+    "translation": "to overtake"
+  },
+  {
+    "word": "überlegen",
+    "forms": "überlegt, überlegte, hat überlegt",
+    "translation": "to consider / reflect"
+  },
+  {
+    "word": "sich überlegen",
+    "forms": "überlegt sich, überlegte sich, hat sich überlegt",
+    "translation": "to consider, to think over"
+  },
+  {
+    "word": "übermorgen",
+    "forms": null,
+    "translation": "the day after tomorrow"
+  },
+  {
+    "word": "übernachten",
+    "forms": "übernachtet, übernachtete, hat übernachtet",
+    "translation": "to stay the night / sleep over"
+  },
+  {
+    "word": "übernehmen",
+    "forms": "übernimmt, übernahm, hat übernommen",
+    "translation": "to take over"
+  },
+  {
+    "word": "überprüfen",
+    "forms": "überprüft, überprüfte, hat überprüft",
+    "translation": "to check, to verify"
+  },
+  {
+    "word": "überqueren",
+    "forms": "überquert, überquerte, hat überquert",
+    "translation": "to cross"
+  },
+  {
+    "word": "überraschen",
+    "forms": "überrascht, überraschte, hat überrascht",
+    "translation": "to surprise"
+  },
+  {
+    "word": "überreden",
+    "forms": "überredet, überredete, hat überredet",
+    "translation": "to persuade / talk into"
+  },
+  {
+    "word": "übersetzen",
+    "forms": "übersetzt, übersetzte, hat übersetzt",
+    "translation": "to translate"
+  },
+  {
+    "word": "übertragen",
+    "forms": "überträgt, übertrug, hat übertragen",
+    "translation": "to transmit, to broadcast"
+  },
+  {
+    "word": "übertreiben",
+    "forms": "übertreibt, übertrieb, hat übertrieben",
+    "translation": "to exaggerate"
+  },
+  {
+    "word": "überweisen",
+    "forms": "überweist, überwies, hat überwiesen",
+    "translation": "to transfer (money) / refer (patient)"
+  },
+  {
+    "word": "überzeugen",
+    "forms": "überzeugt, überzeugte, hat überzeugt",
+    "translation": "to convince"
+  },
+  {
+    "word": "umarmen",
+    "forms": "umarmt, umarmte, hat umarmt",
+    "translation": "to hug / embrace"
+  },
+  {
+    "word": "umtauschen",
+    "forms": "tauscht um, tauschte um, hat umgetauscht",
+    "translation": "to exchange"
+  },
+  {
+    "word": "umziehen",
+    "forms": "zieht um, zog um, ist umgezogen",
+    "translation": "to move (house) / change (clothes)"
+  },
+  {
+    "word": "unten",
+    "forms": null,
+    "translation": "below / downstairs"
+  },
+  {
+    "word": "unter Druck stehen",
+    "forms": null,
+    "translation": "to be under pressure"
+  },
+  {
+    "word": "unterbrechen",
+    "forms": "unterbricht, unterbrach, hat unterbrochen",
+    "translation": "to interrupt"
+  },
+  {
+    "word": "sich unterhalten",
+    "forms": "unterhält sich, unterhielt sich, hat sich unterhalten",
+    "translation": "to converse / to chat"
+  },
+  {
+    "word": "unternehmen",
+    "forms": "unternimmt, unternahm, hat unternommen",
+    "translation": "to undertake / to go on an excursion"
+  },
+  {
+    "word": "unterrichten",
+    "forms": "unterrichtet, unterrichtete, hat unterrichtet",
+    "translation": "to teach"
+  },
+  {
+    "word": "unterscheiden",
+    "forms": "unterscheidet, unterschied, hat unterschieden",
+    "translation": "to distinguish"
+  },
+  {
+    "word": "unterschreiben",
+    "forms": "unterschreibt, unterschrieb, hat unterschrieben",
+    "translation": "to sign (a document)"
+  },
+  {
+    "word": "unterstreichen",
+    "forms": "unterstreicht, unterstrich, hat unterstrichen",
+    "translation": "to underline"
+  },
+  {
+    "word": "unterstützen",
+    "forms": "unterstützt, unterstützte, hat unterstützt",
+    "translation": "to support"
+  },
+  {
+    "word": "untersuchen",
+    "forms": "untersucht, untersuchte, hat untersucht",
+    "translation": "to examine / investigate"
+  },
+  {
+    "word": "verabreden",
+    "forms": "verabredet, verabredete, hat verabredet",
+    "translation": "to arrange (an appointment/meeting)"
+  },
+  {
+    "word": "verabschieden",
+    "forms": "verabschiedet, verabschiedete, hat verabschiedet",
+    "translation": "to say goodbye"
+  },
+  {
+    "word": "sich verabschieden",
+    "forms": "verabschiedet, verabschiedete, hat verabschiedet",
+    "translation": "to say goodbye"
+  },
+  {
+    "word": "verändern",
+    "forms": "verändert, veränderte, hat verändert",
+    "translation": "to change / modify"
+  },
+  {
+    "word": "verbessern",
+    "forms": "verbessert, verbesserte, hat verbessert",
+    "translation": "to improve"
+  },
+  {
+    "word": "verbieten",
+    "forms": "verbietet, verbot, hat verboten",
+    "translation": "to forbid / prohibit"
+  },
+  {
+    "word": "verbinden",
+    "forms": "verbindet, verband, hat verbunden",
+    "translation": "to connect"
+  },
+  {
+    "word": "verbrauchen",
+    "forms": "verbraucht, verbrauchte, hat verbraucht",
+    "translation": "to consume / to use up"
+  },
+  {
+    "word": "verbrennen",
+    "forms": "verbrennt, verbrannte, hat verbrannt",
+    "translation": "to burn"
+  },
+  {
+    "word": "verbringen",
+    "forms": "verbringt, verbrachte, hat verbracht",
+    "translation": "to spend (time)"
+  },
+  {
+    "word": "verdienen",
+    "forms": "verdient, verdiente, hat verdient",
+    "translation": "to earn / deserve"
+  },
+  {
+    "word": "vereinbaren",
+    "forms": "vereinbart, vereinbarte, hat vereinbart",
+    "translation": "to arrange / to agree upon"
+  },
+  {
+    "word": "vergessen",
+    "forms": "vergisst, vergaß, hat vergessen",
+    "translation": "to forget"
+  },
+  {
+    "word": "vergleichen",
+    "forms": "vergleicht, verglich, hat verglichen",
+    "translation": "to compare"
+  },
+  {
+    "word": "vergrößern",
+    "forms": "vergrößert, vergrößerte, hat vergrößert",
+    "translation": "to enlarge"
+  },
+  {
+    "word": "verhaften",
+    "forms": "verhaftet, verhaftete, hat verhaftet",
+    "translation": "to arrest"
+  },
+  {
+    "word": "verhalten",
+    "forms": "verhält, verhielt, hat verhalten",
+    "translation": "to behave"
+  },
+  {
+    "word": "verhindern",
+    "forms": "verhindert, verhinderte, hat verhindert",
+    "translation": "to prevent"
+  },
+  {
+    "word": "verkaufen",
+    "forms": "verkauft, verkaufte, hat verkauft",
+    "translation": "to sell"
+  },
+  {
+    "word": "verlängern",
+    "forms": "verlängert, verlängerte, hat verlängert",
+    "translation": "to extend"
+  },
+  {
+    "word": "verlangen",
+    "forms": "verlangt, verlangte, hat verlangt",
+    "translation": "to demand"
+  },
+  {
+    "word": "verlassen",
+    "forms": "verlässt, verließ, hat verlassen",
+    "translation": "to leave / abandon"
+  },
+  {
+    "word": "sich verlassen auf",
+    "forms": "verlässt sich, verließ sich, hat sich verlassen",
+    "translation": "to rely on"
+  },
+  {
+    "word": "sich verlaufen",
+    "forms": "verläuft sich, verlief sich, hat sich verlaufen",
+    "translation": "to get lost (walking)"
+  },
+  {
+    "word": "verleihen",
+    "forms": "verleiht, verlieh, hat verliehen",
+    "translation": "to lend"
+  },
+  {
+    "word": "verletzen",
+    "forms": "verletzt, verletzte, hat verletzt",
+    "translation": "to injure / hurt"
+  },
+  {
+    "word": "verlieben",
+    "forms": "verliebt, verliebte, hat verliebt",
+    "translation": "to fall in love"
+  },
+  {
+    "word": "verlieren",
+    "forms": "verliert, verlor, hat verloren",
+    "translation": "to lose"
+  },
+  {
+    "word": "vermeiden",
+    "forms": "vermeidet, vermied, hat vermieden",
+    "translation": "to avoid"
+  },
+  {
+    "word": "vermieten",
+    "forms": "vermietet, vermietete, hat vermietet",
+    "translation": "to rent out"
+  },
+  {
+    "word": "vermissen",
+    "forms": "vermisst, vermisste, hat vermisst",
+    "translation": "to miss"
+  },
+  {
+    "word": "verpacken",
+    "forms": "verpackt, verpackte, hat verpackt",
+    "translation": "to pack"
+  },
+  {
+    "word": "verpassen",
+    "forms": "verpasst, verpasste, hat verpasst",
+    "translation": "to miss (a train, bus, show)"
+  },
+  {
+    "word": "verschieben",
+    "forms": "verschiebt, verschob, hat verschoben",
+    "translation": "to postpone"
+  },
+  {
+    "word": "verschieden",
+    "forms": null,
+    "translation": "different"
+  },
+  {
+    "word": "verschreiben",
+    "forms": "verschreibt, verschrieb, hat verschrieben",
+    "translation": "to prescribe"
+  },
+  {
+    "word": "verschwinden",
+    "forms": "verschwindet, verschwand, ist verschwunden",
+    "translation": "to disappear"
+  },
+  {
+    "word": "versichern",
+    "forms": "versichert, versicherte, hat versichert",
+    "translation": "to insure"
+  },
+  {
+    "word": "versorgen",
+    "forms": "versorgt, versorgte, hat versorgt",
+    "translation": "to look after, provide for"
+  },
+  {
+    "word": "versprechen",
+    "forms": "verspricht, versprach, hat versprochen",
+    "translation": "to promise"
+  },
+  {
+    "word": "verstecken",
+    "forms": "versteckt, versteckte, hat versteckt",
+    "translation": "to hide"
+  },
+  {
+    "word": "verstehen",
+    "forms": "versteht, verstand, hat verstanden",
+    "translation": "to understand"
+  },
+  {
+    "word": "versuchen",
+    "forms": "versucht, versuchte, hat versucht",
+    "translation": "to try / attempt"
+  },
+  {
+    "word": "verteilen",
+    "forms": "verteilt, verteilte, hat verteilt",
+    "translation": "to distribute"
+  },
+  {
+    "word": "vertrauen",
+    "forms": "vertraut, vertraute, hat vertraut",
+    "translation": "to trust"
+  },
+  {
+    "word": "vertreten",
+    "forms": "vertritt, vertrat, hat vertreten",
+    "translation": "to represent, substitute for"
+  },
+  {
+    "word": "verurteilen",
+    "forms": "verurteilt, verurteilte, hat verurteilt",
+    "translation": "to convict, condemn"
+  },
+  {
+    "word": "verwechseln",
+    "forms": "verwechselt, verwechselte, hat verwechselt",
+    "translation": "to confuse"
+  },
+  {
+    "word": "verwenden",
+    "forms": "verwendet, verwendete, hat verwendet",
+    "translation": "to use / employ"
+  },
+  {
+    "word": "vorbereiten",
+    "forms": "bereitet vor, bereitete vor, hat vorbereitet",
+    "translation": "to prepare"
+  },
+  {
+    "word": "vorgestern",
+    "forms": null,
+    "translation": "the day before yesterday"
+  },
+  {
+    "word": "vorhaben",
+    "forms": "hat vor, hatte vor, hat vorgehabt",
+    "translation": "to plan / intend"
+  },
+  {
+    "word": "vorkommen",
+    "forms": "kommt vor, kam vor, ist vorgekommen",
+    "translation": "to occur/to happen"
+  },
+  {
+    "word": "vorlesen",
+    "forms": "liest vor, las vor, hat vorgelesen",
+    "translation": "to read aloud"
+  },
+  {
+    "word": "sich vornehmen",
+    "forms": "nimmt sich vor, nahm sich vor, hat sich vorgenommen",
+    "translation": "to plan/resolve to do something"
+  },
+  {
+    "word": "vorschlagen",
+    "forms": "schlägt vor, schlug vor, hat vorgeschlagen",
+    "translation": "to suggest"
+  },
+  {
+    "word": "vorstellen",
+    "forms": "stellt vor, stellte vor, hat vorgestellt",
+    "translation": "to introduce / imagine"
+  },
+  {
+    "word": "wachsen",
+    "forms": "wächst, wuchs, ist gewachsen",
+    "translation": "to grow"
+  },
+  {
+    "word": "wählen",
+    "forms": "wählt, wählte, hat gewählt",
+    "translation": "to choose / vote"
+  },
+  {
+    "word": "wandern",
+    "forms": "wandert, wanderte, ist gewandert",
+    "translation": "to hike"
+  },
+  {
+    "word": "warnen",
+    "forms": "warnt, warnte, hat gewarnt",
+    "translation": "to warn"
+  },
+  {
+    "word": "warten",
+    "forms": "wartet, wartete, hat gewartet",
+    "translation": "to wait"
+  },
+  {
+    "word": "waschen",
+    "forms": "wäscht, wusch, hat gewaschen",
+    "translation": "to wash"
+  },
+  {
+    "word": "wechseln",
+    "forms": "wechselt, wechselte, hat gewechselt",
+    "translation": "to change / exchange"
+  },
+  {
+    "word": "wecken",
+    "forms": "weckt, weckte, hat geweckt",
+    "translation": "to wake someone up"
+  },
+  {
+    "word": "wegen",
+    "forms": null,
+    "translation": "because of"
+  },
+  {
+    "word": "weinen",
+    "forms": "weint, weinte, hat geweint",
+    "translation": "to cry / weep"
+  },
+  {
+    "word": "sich weiterbilden",
+    "forms": "bildet sich weiter, bildete sich weiter, hat sich weitergebildet",
+    "translation": "to continue one's education"
+  },
+  {
+    "word": "wenden",
+    "forms": "wendet, wendete, hat gewendet",
+    "translation": "to turn"
+  },
+  {
+    "word": "werden",
+    "forms": "wird, wurde, ist geworden",
+    "translation": "to become / turn"
+  },
+  {
+    "word": "werfen",
+    "forms": "wirft, warf, hat geworfen",
+    "translation": "to throw"
+  },
+  {
+    "word": "widersprechen",
+    "forms": "widerspricht, widersprach, hat widersprochen",
+    "translation": "to contradict"
+  },
+  {
+    "word": "wiederholen",
+    "forms": "wiederholt, wiederholte, hat wiederholt",
+    "translation": "to repeat"
+  },
+  {
+    "word": "wiegen",
+    "forms": "wiegt, wog, hat gewogen",
+    "translation": "to weigh"
+  },
+  {
+    "word": "willkommen",
+    "forms": null,
+    "translation": "welcome"
+  },
+  {
+    "word": "winken",
+    "forms": "winkt, winkte, hat gewinkt",
+    "translation": "to wave"
+  },
+  {
+    "word": "wirken",
+    "forms": "wirkt, wirkte, hat gewirkt",
+    "translation": "to have an effect"
+  },
+  {
+    "word": "wissen",
+    "forms": "weiß, wusste, hat gewusst",
+    "translation": "to know (a fact)"
+  },
+  {
+    "word": "wohnen",
+    "forms": "wohnt, wohnte, hat gewohnt",
+    "translation": "to live / reside"
+  },
+  {
+    "word": "wollen",
+    "forms": "will, wollte, hat gewollt",
+    "translation": "to want"
+  },
+  {
+    "word": "wünschen",
+    "forms": "wünscht, wünschte, hat gewünscht",
+    "translation": "to wish"
+  },
+  {
+    "word": "wundern",
+    "forms": "wundert, wunderte, hat gewundert",
+    "translation": "to surprise / wonder"
+  },
+  {
+    "word": "zählen",
+    "forms": "zählt, zählte, hat gezählt",
+    "translation": "to count"
+  },
+  {
+    "word": "zahlen",
+    "forms": "zahlt, zahlte, hat gezahlt",
+    "translation": "to pay"
+  },
+  {
+    "word": "zeichnen",
+    "forms": "zeichnet, zeichnete, hat gezeichnet",
+    "translation": "to draw"
+  },
+  {
+    "word": "zeigen",
+    "forms": "zeigt, zeigte, hat gezeigt",
+    "translation": "to show"
+  },
+  {
+    "word": "Zeit verbringen",
+    "forms": null,
+    "translation": "to spend time"
+  },
+  {
+    "word": "zerstören",
+    "forms": "zerstört, zerstörte, hat zerstört",
+    "translation": "to destroy"
+  },
+  {
+    "word": "ziehen",
+    "forms": "zieht, zog, hat gezogen / ist gezogen",
+    "translation": "to pull / draw / move"
+  },
+  {
+    "word": "zufrieden",
+    "forms": null,
+    "translation": "satisfied / happy"
+  },
+  {
+    "word": "zugehen",
+    "forms": null,
+    "translation": "to go on / to approach"
+  },
+  {
+    "word": "zuhören",
+    "forms": "hört zu, hörte zu, hat zugehört",
+    "translation": "to listen (attentively)"
+  },
+  {
+    "word": "zulassen",
+    "forms": "lässt zu, ließ zu, hat zugelassen",
+    "translation": "to allow / to admit"
+  },
+  {
+    "word": "zumachen",
+    "forms": "macht zu, machte zu, hat zugemacht",
+    "translation": "to close"
+  },
+  {
+    "word": "zunehmen",
+    "forms": "nimmt zu, nahm zu, hat zugenommen",
+    "translation": "to increase / gain weight"
+  },
+  {
+    "word": "zurechtkommen",
+    "forms": "kommt zurecht, kam zurecht, ist zurechtgekommen",
+    "translation": "to get along / manage"
+  },
+  {
+    "word": "zurückkommen",
+    "forms": "kommt zurück, kam zurück, ist zurückgekommen",
+    "translation": "to return / come back"
+  },
+  {
+    "word": "zusagen",
+    "forms": "sagt zu, sagte zu, hat zugesagt",
+    "translation": "to agree / accept (invite)"
+  },
+  {
+    "word": "zusammen",
+    "forms": null,
+    "translation": "together"
+  },
+  {
+    "word": "zusammenfassen",
+    "forms": "fasst zusammen, fasste zusammen, hat zusammengefasst",
+    "translation": "to summarize / outline"
+  },
+  {
+    "word": "zuschauen",
+    "forms": "schaut zu, schaute zu, hat zugeschaut",
+    "translation": "to watch / look on"
+  },
+  {
+    "word": "zustimmen",
+    "forms": "stimmt zu, stimmte zu, hat zugestimmt",
+    "translation": "to agree"
+  },
+  {
+    "word": "zweifeln",
+    "forms": "zweifelt, zweifelte, hat gezweifelt",
+    "translation": "to doubt"
+  },
+  {
+    "word": "zwingen",
+    "forms": "zwingt, zwang, hat gezwungen",
+    "translation": "to force"
+  },
+  {
+    "word": "zwischen",
+    "forms": null,
+    "translation": "between"
+  },
+  {
+    "word": "radfahren",
+    "forms": null,
+    "translation": "to cycle"
+  },
+  {
+    "word": "basteln",
+    "forms": null,
+    "translation": "to do crafts"
+  },
+  {
+    "word": "sich treffen",
+    "forms": null,
+    "translation": "to meet"
+  },
+  {
+    "word": "Freunde besuchen",
+    "forms": null,
+    "translation": "to visit friends"
+  },
+  {
+    "word": "bummeln",
+    "forms": null,
+    "translation": "to stroll / shop around"
+  },
+  {
+    "word": "shoppen",
+    "forms": null,
+    "translation": "to shop"
+  },
+  {
+    "word": "grillen",
+    "forms": null,
+    "translation": "to barbecue"
+  },
+  {
+    "word": "sich entspannen",
+    "forms": null,
+    "translation": "to relax"
+  },
+  {
+    "word": "faulenzen",
+    "forms": null,
+    "translation": "to laze around"
+  },
+  {
+    "word": "Karten spielen",
+    "forms": null,
+    "translation": "to play cards"
+  },
+  {
+    "word": "ein Instrument spielen",
+    "forms": null,
+    "translation": "to play an instrument"
+  },
+  {
+    "word": "Serien schauen",
+    "forms": null,
+    "translation": "to watch shows"
+  },
+  {
+    "word": "sich verabreden",
+    "forms": null,
+    "translation": "to make an appointment / plan"
+  },
+  {
+    "word": "frei haben",
+    "forms": null,
+    "translation": "to have free time / off"
+  },
+  {
+    "word": "modernisieren",
+    "forms": null,
+    "translation": "to modernize"
+  },
+  {
+    "word": "sich ernähren",
+    "forms": null,
+    "translation": "to eat (diet)"
+  },
+  {
+    "word": "bestehen",
+    "forms": null,
+    "translation": "to pass (exam)"
+  },
+  {
+    "word": "durchfallen",
+    "forms": null,
+    "translation": "to fail (exam)"
+  },
+  {
+    "word": "sich anmelden",
+    "forms": null,
+    "translation": "to register / sign up"
+  },
+  {
+    "word": "herunterladen",
+    "forms": null,
+    "translation": "to download"
+  },
+  {
+    "word": "hochladen",
+    "forms": null,
+    "translation": "to upload"
+  },
+  {
+    "word": "scannen",
+    "forms": null,
+    "translation": "to scan"
+  },
+  {
+    "word": "posten",
+    "forms": null,
+    "translation": "to post"
+  },
+  {
+    "word": "liken",
+    "forms": null,
+    "translation": "to like (social media)"
+  },
+  {
+    "word": "aufladen",
+    "forms": null,
+    "translation": "to charge"
+  },
+  {
+    "word": "sich verlieben",
+    "forms": null,
+    "translation": "to fall in love"
+  },
+  {
+    "word": "zusammenleben",
+    "forms": null,
+    "translation": "to live together"
+  },
+  {
+    "word": "sich streiten",
+    "forms": null,
+    "translation": "to argue / fight"
+  },
+  {
+    "word": "sich versöhnen",
+    "forms": null,
+    "translation": "to reconcile"
+  },
+  {
+    "word": "sich kümmern um",
+    "forms": null,
+    "translation": "to take care of"
+  },
+  {
+    "word": "respektieren",
+    "forms": null,
+    "translation": "to respect"
+  },
+  {
+    "word": "sich kümmern",
+    "forms": null,
+    "translation": "to take care"
+  },
+  {
+    "word": "recyceln",
+    "forms": null,
+    "translation": "to recycle"
+  },
+  {
+    "word": "bedrohte Tierarten",
+    "forms": null,
+    "translation": "endangered species"
+  },
+  {
+    "word": "pflanzen",
+    "forms": null,
+    "translation": "to plant"
+  },
+  {
+    "word": "verschwenden",
+    "forms": null,
+    "translation": "to waste"
+  },
+  {
+    "word": "gratulieren",
+    "forms": null,
+    "translation": "to congratulate"
+  },
+  {
+    "word": "unterhalten",
+    "forms": null,
+    "translation": "to entertain / converse"
+  },
+  {
+    "word": "dekorieren",
+    "forms": null,
+    "translation": "to decorate"
+  },
+  {
+    "word": "bar bezahlen",
+    "forms": null,
+    "translation": "to pay in cash"
+  },
+  {
+    "word": "mit Karte bezahlen",
+    "forms": null,
+    "translation": "to pay by card"
+  },
+  {
+    "word": "zurückgeben",
+    "forms": null,
+    "translation": "to return (items)"
+  },
+  {
+    "word": "unzufrieden",
+    "forms": null,
+    "translation": "dissatisfied"
+  },
+  {
+    "word": "reklamieren",
+    "forms": null,
+    "translation": "to complain / claim"
+  },
+  {
+    "word": "sich gewöhnen an",
+    "forms": null,
+    "translation": "to get used to"
+  },
+  {
+    "word": "diskriminieren",
+    "forms": null,
+    "translation": "to discriminate"
+  },
+  {
+    "word": "sich anpassen",
+    "forms": null,
+    "translation": "to adapt / adjust"
+  },
+  {
+    "word": "füttern",
+    "forms": null,
+    "translation": "to feed"
+  },
+  {
+    "word": "streicheln",
+    "forms": null,
+    "translation": "to pet / stroke"
+  },
+  {
+    "word": "Gassi gehen",
+    "forms": null,
+    "translation": "to walk the dog"
+  },
+  {
+    "word": "kastrieren",
+    "forms": null,
+    "translation": "to neuter / spay"
+  },
+  {
+    "word": "adoptieren",
+    "forms": null,
+    "translation": "to adopt"
+  },
+  {
+    "word": "sauber machen",
+    "forms": null,
+    "translation": "to clean up"
+  },
+  {
+    "word": "jagen",
+    "forms": null,
+    "translation": "to hunt"
+  },
+  {
+    "word": "streunen",
+    "forms": null,
+    "translation": "to stray"
+  },
+  {
+    "word": "belohnen",
+    "forms": null,
+    "translation": "to reward"
+  },
+  {
+    "word": "sich einloggen",
+    "forms": null,
+    "translation": "to log in"
+  },
+  {
+    "word": "sich ausloggen",
+    "forms": null,
+    "translation": "to log out"
+  },
+  {
+    "word": "online einkaufen",
+    "forms": null,
+    "translation": "to shop online"
+  },
+  {
+    "word": "absagen",
+    "forms": null,
+    "translation": "to cancel"
+  },
+  {
+    "word": "einreichen",
+    "forms": null,
+    "translation": "to submit / hand in"
+  },
+  {
+    "word": "beglaubigen",
+    "forms": null,
+    "translation": "to certify / notarize"
+  },
+  {
+    "word": "demonstrieren",
+    "forms": null,
+    "translation": "to demonstrate / protest"
+  },
+  {
+    "word": "sich bewerben um",
+    "forms": null,
+    "translation": "to apply for (a job)"
+  },
+  {
+    "word": "umsteigen",
+    "forms": null,
+    "translation": "to change trains / buses"
+  },
+  {
+    "word": "vorbeugen",
+    "forms": null,
+    "translation": "to prevent / guard against"
+  },
+  {
+    "word": "genesen",
+    "forms": null,
+    "translation": "to recover / heal"
+  },
+  {
+    "word": "recherchieren",
+    "forms": null,
+    "translation": "to research"
+  },
+  {
+    "word": "erneuerbare Energien",
+    "forms": null,
+    "translation": "renewable energies"
+  },
+  {
+    "word": "einhalten",
+    "forms": null,
+    "translation": "to comply with / observe"
+  },
+  {
+    "word": "verhandeln",
+    "forms": null,
+    "translation": "to negotiate"
+  },
+  {
+    "word": "einarbeiten",
+    "forms": null,
+    "translation": "to train / induct"
+  },
+  {
+    "word": "befördern",
+    "forms": null,
+    "translation": "to promote"
+  },
+  {
+    "word": "erforschen",
+    "forms": null,
+    "translation": "to research / investigate"
+  },
+  {
+    "word": "nachweisen",
+    "forms": null,
+    "translation": "to prove / detect"
+  },
+  {
+    "word": "belegen",
+    "forms": null,
+    "translation": "to substantiate / verify"
+  },
+  {
+    "word": "investieren",
+    "forms": null,
+    "translation": "to invest"
+  },
+  {
+    "word": "erwirtschaften",
+    "forms": null,
+    "translation": "to generate / turn a profit"
+  },
+  {
+    "word": "in Kraft treten",
+    "forms": null,
+    "translation": "to enter into force / come into effect"
+  },
+  {
+    "word": "anfechten",
+    "forms": null,
+    "translation": "to contest / appeal against"
+  },
+  {
+    "word": "einsparen",
+    "forms": null,
+    "translation": "to save / cut down on emissions"
+  },
+  {
+    "word": "gefährden",
+    "forms": null,
+    "translation": "to endanger / jeopardize"
+  },
+  {
+    "word": "kompensieren",
+    "forms": null,
+    "translation": "to compensate / offset"
+  },
+  {
+    "word": "übermitteln",
+    "forms": null,
+    "translation": "to transmit / convey data"
+  },
+  {
+    "word": "diagnostizieren",
+    "forms": null,
+    "translation": "to diagnose"
+  },
+  {
+    "word": "beeinträchtigen",
+    "forms": null,
+    "translation": "to impair / adversely affect"
+  },
+  {
+    "word": "lindern",
+    "forms": null,
+    "translation": "to alleviate / soothe"
+  },
+  {
+    "word": "interpretieren",
+    "forms": null,
+    "translation": "to interpret / analyze literary text"
+  },
+  {
+    "word": "würdigen",
+    "forms": null,
+    "translation": "to honor / commemorate / pay tribute to"
+  },
+  {
+    "word": "sich einfühlen in",
+    "forms": null,
+    "translation": "to empathize with"
+  },
+  {
+    "word": "erkunden",
+    "forms": null,
+    "translation": "to explore / discover"
+  },
+  {
+    "word": "bewältigen",
+    "forms": null,
+    "translation": "to manage / master travel challenges"
+  },
+  {
+    "word": "erschließen",
+    "forms": null,
+    "translation": "to develop / make accessible"
+  },
+  {
+    "word": "umbauen",
+    "forms": null,
+    "translation": "to convert / remodel"
+  },
+  {
+    "word": "genießen",
+    "forms": null,
+    "translation": "to savor / relish"
+  },
+  {
+    "word": "degustieren",
+    "forms": null,
+    "translation": "to sample / taste wine or food"
+  },
+  {
+    "word": "erstatten",
+    "forms": null,
+    "translation": "to refund / reimburse"
+  },
+  {
+    "word": "aufgeschlossen",
+    "forms": null,
+    "translation": "open-minded / receptive"
+  },
+  {
+    "word": "hinterfragen",
+    "forms": null,
+    "translation": "to scrutinize / question critically"
+  },
+  {
+    "word": "bescheinigen",
+    "forms": null,
+    "translation": "to certify / attest"
+  },
+  {
+    "word": "abschalten",
+    "forms": null,
+    "translation": "to unwind / switch off"
+  },
+  {
+    "word": "auskosten",
+    "forms": null,
+    "translation": "to savor / make the most of"
+  },
+  {
+    "word": "sich qualifizieren für",
+    "forms": null,
+    "translation": "to qualify for"
+  },
+  {
+    "word": "abbauen",
+    "forms": null,
+    "translation": "to reduce / to dismantle"
+  },
+  {
+    "word": "angemessen",
+    "forms": null,
+    "translation": "appropriate / reasonable"
+  },
+  {
+    "word": "auffordern",
+    "forms": null,
+    "translation": "to request / to call upon"
+  },
+  {
+    "word": "ausbilden",
+    "forms": null,
+    "translation": "to train / to educate"
+  },
+  {
+    "word": "anfordern",
+    "forms": null,
+    "translation": "to request / to demand"
+  },
+  {
+    "word": "abbrechen",
+    "forms": null,
+    "translation": "to cancel / to break off"
+  },
+  {
+    "word": "annehmen",
+    "forms": null,
+    "translation": "to accept / to assume"
+  },
+  {
+    "word": "aufhören",
+    "forms": null,
+    "translation": "to stop / to cease"
+  },
+  {
+    "word": "bearbeiten",
+    "forms": null,
+    "translation": "to edit / to process"
+  },
+  {
+    "word": "bedauern",
+    "forms": null,
+    "translation": "to regret"
+  },
+  {
+    "word": "beeinflussen",
+    "forms": null,
+    "translation": "to influence"
+  },
+  {
+    "word": "beeindrucken",
+    "forms": null,
+    "translation": "to impress"
+  },
+  {
+    "word": "befürchten",
+    "forms": null,
+    "translation": "to fear"
+  },
+  {
+    "word": "behaupten",
+    "forms": null,
+    "translation": "to claim / to assert"
+  },
+  {
+    "word": "beitreten",
+    "forms": null,
+    "translation": "to join (an organisation)"
+  },
+  {
+    "word": "bekanntgeben",
+    "forms": null,
+    "translation": "to announce"
+  },
+  {
+    "word": "belasten",
+    "forms": null,
+    "translation": "to strain / to burden"
+  },
+  {
+    "word": "berücksichtigen",
+    "forms": null,
+    "translation": "to take into account"
+  },
+  {
+    "word": "bestimmen",
+    "forms": null,
+    "translation": "to determine"
+  },
+  {
+    "word": "betonen",
+    "forms": null,
+    "translation": "to emphasise"
+  },
+  {
+    "word": "betragen",
+    "forms": null,
+    "translation": "to amount to"
+  },
+  {
+    "word": "beurteilen",
+    "forms": null,
+    "translation": "to judge / to assess"
+  },
+  {
+    "word": "bilden",
+    "forms": null,
+    "translation": "to form / to educate"
+  },
+  {
+    "word": "debattieren",
+    "forms": null,
+    "translation": "to debate"
+  },
+  {
+    "word": "definieren",
+    "forms": null,
+    "translation": "to define"
+  },
+  {
+    "word": "dienen",
+    "forms": null,
+    "translation": "to serve"
+  },
+  {
+    "word": "digitalisieren",
+    "forms": null,
+    "translation": "to digitalise"
+  },
+  {
+    "word": "dolmetschen",
+    "forms": null,
+    "translation": "to interpret (language)"
+  },
+  {
+    "word": "drohen",
+    "forms": null,
+    "translation": "to threaten"
+  },
+  {
+    "word": "einwenden",
+    "forms": null,
+    "translation": "to object"
+  },
+  {
+    "word": "entfernen",
+    "forms": null,
+    "translation": "to remove"
+  },
+  {
+    "word": "entgegennehmen",
+    "forms": null,
+    "translation": "to accept / to take"
+  },
+  {
+    "word": "entschlossen",
+    "forms": null,
+    "translation": "determined"
+  },
+  {
+    "word": "entsprechen",
+    "forms": null,
+    "translation": "to correspond to"
+  },
+  {
+    "word": "erfassen",
+    "forms": null,
+    "translation": "to grasp / to record"
+  },
+  {
+    "word": "ermöglichen",
+    "forms": null,
+    "translation": "to enable"
+  },
+  {
+    "word": "erscheinen",
+    "forms": null,
+    "translation": "to appear / to be published"
+  },
+  {
+    "word": "erwähnen",
+    "forms": null,
+    "translation": "to mention"
+  },
+  {
+    "word": "erweitern",
+    "forms": null,
+    "translation": "to expand"
+  },
+  {
+    "word": "existieren",
+    "forms": null,
+    "translation": "to exist"
+  },
+  {
+    "word": "exportieren",
+    "forms": null,
+    "translation": "to export"
+  },
+  {
+    "word": "fassen",
+    "forms": null,
+    "translation": "to grasp / to hold"
+  },
+  {
+    "word": "fertigstellen",
+    "forms": null,
+    "translation": "to complete"
+  },
+  {
+    "word": "gebrauchen",
+    "forms": null,
+    "translation": "to use"
+  },
+  {
+    "word": "gelingen",
+    "forms": null,
+    "translation": "to succeed"
+  },
+  {
+    "word": "gestalten",
+    "forms": null,
+    "translation": "to design / to shape"
+  },
+  {
+    "word": "gewinnen",
+    "forms": null,
+    "translation": "to win"
+  },
+  {
+    "word": "gründen",
+    "forms": null,
+    "translation": "to found / to establish"
+  },
+  {
+    "word": "heilen",
+    "forms": null,
+    "translation": "to heal"
+  },
+  {
+    "word": "herstellen",
+    "forms": null,
+    "translation": "to produce / to manufacture"
+  },
+  {
+    "word": "ignorieren",
+    "forms": null,
+    "translation": "to ignore"
+  },
+  {
+    "word": "inspirieren",
+    "forms": null,
+    "translation": "to inspire"
+  },
+  {
+    "word": "jammern",
+    "forms": null,
+    "translation": "to moan / to whine"
+  },
+  {
+    "word": "justieren",
+    "forms": null,
+    "translation": "to adjust"
+  },
+  {
+    "word": "klagen",
+    "forms": null,
+    "translation": "to complain / to sue"
+  },
+  {
+    "word": "klären",
+    "forms": null,
+    "translation": "to clarify"
+  },
+  {
+    "word": "klettern",
+    "forms": null,
+    "translation": "to climb"
+  },
+  {
+    "word": "kommunizieren",
+    "forms": null,
+    "translation": "to communicate"
+  },
+  {
+    "word": "leuchten",
+    "forms": null,
+    "translation": "to shine"
+  },
+  {
+    "word": "mahnen",
+    "forms": null,
+    "translation": "to warn / to urge"
+  },
+  {
+    "word": "quittieren",
+    "forms": null,
+    "translation": "to acknowledge receipt"
+  },
+  {
+    "word": "realisieren",
+    "forms": null,
+    "translation": "to realise / to implement"
+  },
+  {
+    "word": "registrieren",
+    "forms": null,
+    "translation": "to register"
+  },
+  {
+    "word": "schalten",
+    "forms": null,
+    "translation": "to switch"
+  },
+  {
+    "word": "schätzen",
+    "forms": null,
+    "translation": "to estimate / to value"
+  },
+  {
+    "word": "schieben",
+    "forms": null,
+    "translation": "to push"
+  },
+  {
+    "word": "schimpfen",
+    "forms": null,
+    "translation": "to scold"
+  },
+  {
+    "word": "schweigen",
+    "forms": null,
+    "translation": "to be silent"
+  },
+  {
+    "word": "siegen",
+    "forms": null,
+    "translation": "to win / to triumph"
+  },
+  {
+    "word": "sinken",
+    "forms": null,
+    "translation": "to sink / to fall"
+  },
+  {
+    "word": "spüren",
+    "forms": null,
+    "translation": "to feel / to sense"
+  },
+  {
+    "word": "steuern",
+    "forms": null,
+    "translation": "to steer / to control"
+  },
+  {
+    "word": "surfen",
+    "forms": null,
+    "translation": "to surf"
+  },
+  {
+    "word": "tendieren",
+    "forms": null,
+    "translation": "to tend"
+  },
+  {
+    "word": "trauen",
+    "forms": null,
+    "translation": "to trust / to dare"
+  },
+  {
+    "word": "sich verhalten",
+    "forms": null,
+    "translation": "to behave"
+  },
+  {
+    "word": "sich verlassen auf (+ Akk)",
+    "forms": null,
+    "translation": "to rely on"
+  },
+  {
+    "word": "vermuten",
+    "forms": null,
+    "translation": "to assume / to suspect"
+  },
+  {
+    "word": "veröffentlichen",
+    "forms": null,
+    "translation": "to publish"
+  },
+  {
+    "word": "verpflichten",
+    "forms": null,
+    "translation": "to oblige / to commit"
+  },
+  {
+    "word": "verraten",
+    "forms": null,
+    "translation": "to betray / to reveal"
+  },
+  {
+    "word": "versäumen",
+    "forms": null,
+    "translation": "to miss / to fail to do"
+  },
+  {
+    "word": "vertragen",
+    "forms": null,
+    "translation": "to tolerate / to stand"
+  },
+  {
+    "word": "verursachen",
+    "forms": null,
+    "translation": "to cause"
+  },
+  {
+    "word": "sich verwechseln",
+    "forms": null,
+    "translation": "to confuse / mistake"
+  },
+  {
+    "word": "verzögern",
+    "forms": null,
+    "translation": "to delay"
+  },
+  {
+    "word": "vorgehen",
+    "forms": null,
+    "translation": "to proceed / go ahead"
+  },
+  {
+    "word": "vorhanden",
+    "forms": null,
+    "translation": "available / existing"
+  },
+  {
+    "word": "sich vorstellen",
+    "forms": null,
+    "translation": "to introduce oneself / imagine"
+  },
+  {
+    "word": "weisen",
+    "forms": null,
+    "translation": "to point / to show"
+  },
+  {
+    "word": "zögern",
+    "forms": null,
+    "translation": "to hesitate"
+  }
+]

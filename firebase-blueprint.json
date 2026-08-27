@@ -1,0 +1,54 @@
+{
+  "entities": {
+    "users": {
+      "title": "User Profiles",
+      "description": "User profile metadata",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string" },
+        "email": { "type": "string" },
+        "displayName": { "type": "string" },
+        "phoneNumber": { "type": "string" },
+        "country": { "type": "string" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["uid", "email"]
+    },
+    "userProgress": {
+      "title": "User Progress",
+      "description": "User learning bookmarks, mastered words, unknown words, and stats",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "bookmarks": { "type": "array", "items": { "type": "string" } },
+        "masteredWords": { "type": "array", "items": { "type": "string" } },
+        "unknownWords": { "type": "array", "items": { "type": "string" } },
+        "totalXP": { "type": "number" },
+        "streakDays": { "type": "number" },
+        "longestStreakDays": { "type": "number" },
+        "lastFlashcardIndex": { "type": "number" },
+        "lastFlashcardWord": { "type": "string" },
+        "updatedAt": { "type": "string" }
+      },
+      "required": ["userId"]
+    },
+    "challenges": {
+      "title": "30-Day Vocabulary Challenges",
+      "description": "User 30-day adaptive vocabulary and phrase challenge progress, days schedule, and items mastery",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "id": { "type": "string" },
+        "level": { "type": "string" },
+        "status": { "type": "string" },
+        "currentDay": { "type": "number" },
+        "completedDaysCount": { "type": "number" },
+        "totalXPEarned": { "type": "number" },
+        "currentStreak": { "type": "number" },
+        "averageAccuracy": { "type": "number" },
+        "updatedAt": { "type": "string" }
+      },
+      "required": ["userId", "id", "level"]
+    }
+  }
+}

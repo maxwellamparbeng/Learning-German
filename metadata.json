@@ -1,0 +1,6 @@
+{
+  "name": "deutschGrid",
+  "description": "deutschGrid - An interactive German vocabulary browser, 30-Day adaptive challenge with A1-B2 grammar curricula, study tool, and learning grid featuring German A1-B2 vocabulary, flashcards, quizzes, voice coach, and cloud sync.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
